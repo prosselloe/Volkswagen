@@ -262,7 +262,7 @@
     "versions": [
         {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-02-28", "chassisFrom": "B1140001", "chassisTo": "B1164475"}
     ],
-    "relatedModels": [58],
+    "relatedModels": [58l 38],
     "unitsProduced": 24475
   }
 ]
