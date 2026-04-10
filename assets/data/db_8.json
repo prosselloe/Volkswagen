@@ -141,7 +141,7 @@
       {"modelYear": "1978", "dateFrom": "1978-08-01", "dateTo": "1979-07-31", "chassisFrom": "1082000001", "chassisTo": "1082158500"},
       {"modelYear": "1979", "dateFrom": "1979-08-01", "dateTo": "1980-07-31", "chassisFrom": "1092000001", "chassisTo": "1092153230"}
     ],
-    "relatedModels": [57],
+    "relatedModels": [56],
     "unitsProduced": 1063963
   },
   {
@@ -150,7 +150,7 @@
     "productionYears": "1970-1975",
     "manufacturingPlant": "São Bernardo do Campo, BR",
     "description": "El Volkswagen 1600 TL va ser la versió Fastback del Type 3 produït al Brasil, conegut per la seva línia de sostre inclinada i un disseny més esportiu que el sedan convencional. Es va fabricar entre agost de 1970 i agost de 1975.",
-    "imageUrl": "assets/images/placeholder.png",
+    "imageUrl": "assets/images/tl_1600.jpg",
     "isCabriolet": false,
     "engine": "1600cc",
     "topSpeed": "135 km/h",
@@ -184,5 +184,47 @@
     ],
     "relatedModels": [58, 38],
     "unitsProduced": 41500
+  },
+  {
+    "id": 60,
+    "name": "Variant I (Model 36)",
+    "productionYears": "1970-1977",
+    "manufacturingPlant": "São Bernardo do Campo, BR",
+    "description": "El Volkswagen Variant, conegut com a Type 3 Squareback, va ser un familiar versàtil i popular al Brasil. La primera generació (Variant I) es va fabricar del 1970 al 1977, oferint un ampli espai de càrrega i la fiabilitat mecànica de la marca.",
+    "imageUrl": "assets/images/variant1.jpg",
+    "isCabriolet": false,
+    "engine": "1600cc",
+    "topSpeed": "135 km/h",
+    "versions": [
+        {"modelYear": "1970", "dateFrom": "1970-01-01", "dateTo": "1970-12-31", "chassisFrom": "3602000001", "chassisTo": "3602024100"},
+        {"modelYear": "1971", "dateFrom": "1971-01-01", "dateTo": "1971-12-31", "chassisFrom": "3612000001", "chassisTo": "3612035500"},
+        {"modelYear": "1972", "dateFrom": "1972-01-01", "dateTo": "1972-12-31", "chassisFrom": "3622000001", "chassisTo": "3622038900"},
+        {"modelYear": "1973", "dateFrom": "1973-01-01", "dateTo": "1973-12-31", "chassisFrom": "3632000001", "chassisTo": "3632033000"},
+        {"modelYear": "1974", "dateFrom": "1974-01-01", "dateTo": "1974-12-31", "chassisFrom": "3642000001", "chassisTo": "3642028100"},
+        {"modelYear": "1975", "dateFrom": "1975-01-01", "dateTo": "1975-12-31", "chassisFrom": "3652000001", "chassisTo": "3652030500"},
+        {"modelYear": "1976", "dateFrom": "1976-01-01", "dateTo": "1976-12-31", "chassisFrom": "3662000001", "chassisTo": "3662038000"},
+        {"modelYear": "1977", "dateFrom": "1977-01-01", "dateTo": "1977-12-31", "chassisFrom": "3672000001", "chassisTo": "3672027800"}
+    ],
+    "relatedModels": [61],
+    "unitsProduced": 225900
+  },
+  {
+    "id": 61,
+    "name": "Variant II (Model 30)",
+    "productionYears": "1977-1981",
+    "manufacturingPlant": "São Bernardo do Campo, BR",
+    "description": "La Variant II va ser la successora modernitzada del familiar de Volkswagen al Brasil. Llançada a finals de 1977, presentava un disseny més rectilini i actualitzat, amb una producció total d'aproximadament 293.000 unitats fins al final de la seva vida comercial el 1981.",
+    "imageUrl": "assets/images/variant2.jpg",
+    "isCabriolet": false,
+    "engine": "1600cc",
+    "topSpeed": "140 km/h",
+    "versions": [
+        {"modelYear": "1978", "dateFrom": "1977-12-01", "dateTo": "1978-11-30", "chassisFrom": "3082000001", "chassisTo": "3082039000"},
+        {"modelYear": "1979", "dateFrom": "1978-12-01", "dateTo": "1979-11-30", "chassisFrom": "3092000001", "chassisTo": "3092045000"},
+        {"modelYear": "1980", "dateFrom": "1979-12-01", "dateTo": "1980-11-30", "chassisFrom": "30A0000001", "chassisTo": "30A0032000", "notes": "Canvi a lletres per a l'any (A=80)"},
+        {"modelYear": "1981", "dateFrom": "1980-12-01", "dateTo": "1981-12-31", "chassisFrom": "30B0000001", "chassisTo": "30B0001000", "notes": "Producció residual"}
+    ],
+    "relatedModels": [60],
+    "unitsProduced": 293000
   }
 ]
