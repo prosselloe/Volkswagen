@@ -153,7 +153,7 @@ Widget build(BuildContext context) {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            'Per a vehicles fabricats a partir de 1980 (17 dígits).',
+            'Per a vehicles fabricats al període 1980-2009 (17 dígits).',
             style: TextStyle(fontSize: 12, fontStyle: FontStyle.italic),
           ),
           const SizedBox(height: 16),

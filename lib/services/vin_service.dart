@@ -1,5 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:http/http.dart' as http;
+import 'dart:developer' as developer;
 
 class VinDecodedResult {
   final String modelName;
@@ -10,9 +12,50 @@ class VinDecodedResult {
 
 class VinService {
   static Map<String, dynamic>? _vinData;
+  static const String _baseUrl =
+      'https://raw.githubusercontent.com/prosselloe/Volkswagen/main/assets/data/';
+
+  // Generic function to load data from remote with local fallback
+  static Future<String> _loadJsonData(String fileName) async {
+    try {
+      final response = await http.get(Uri.parse('$_baseUrl$fileName'));
+      if (response.statusCode == 200) {
+        developer.log('Successfully loaded $fileName from remote repository', name: 'VinService');
+        return utf8.decode(response.bodyBytes);
+      } else {
+        developer.log(
+          'Failed to load $fileName from remote. Status code: ${response.statusCode}. Falling back to local assets.',
+          name: 'VinService',
+          level: 900, // Warning
+        );
+        return await rootBundle.loadString('assets/data/$fileName');
+      }
+    } catch (e, s) {
+      developer.log(
+        'Error loading $fileName from remote repository. Falling back to local assets.',
+        name: 'VinService',
+        error: e,
+        stackTrace: s,
+      );
+      // Fallback to local asset
+      try {
+        return await rootBundle.loadString('assets/data/$fileName');
+      } catch (localError, localStack) {
+         developer.log(
+          'FATAL: Error loading $fileName from local assets as well.',
+          name: 'VinService',
+          error: localError,
+          stackTrace: localStack,
+          level: 1200, // Severe
+        );
+        // Return an empty object as a string to prevent crashing the json.decode
+        return '{}';
+      }
+    }
+  }
 
   static Future<void> init() async {
-    final String response = await rootBundle.loadString('assets/data/vin_data.json');
+    final String response = await _loadJsonData('vin_data.json');
     _vinData = await json.decode(response);
   }
 
@@ -72,7 +115,9 @@ class VinService {
     };
     const Map<String, int> yearMap2 = {
       'A': 2010, 'B': 2011, 'C': 2012, 'D': 2013, 'E': 2014, 'F': 2015, 'G': 2016, 'H': 2017,
-      'J': 2018, 'K': 2019, 'L': 2020, 'M': 2021, 'N': 2022, 'P': 2023, 'R': 2024
+      'J': 2018, 'K': 2019, 'L': 2020, 'M': 2021, 'N': 2022, 'P': 2023, 'R': 2024, 'S': 2025,
+      'T': 2026, 'V': 2027, 'W': 2028, 'X': 2029, 'Y': 2030, '1': 2031, '2': 2032, '3': 2033,
+      '4': 2034, '5': 2035, '6': 2036, '7': 2037, '8': 2038, '9': 2039
     };
 
     List<int> years = [];
