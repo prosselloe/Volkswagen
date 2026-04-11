@@ -1,173 +1,184 @@
-[
-  {
-    "id": 16,
-    "name": {
-      "ca": "Porsche 914",
-      "en": "Porsche 914",
-      "es": "Porsche 914",
-      "de": "Porsche 914",
-      "fr": "Porsche 914",
-      "it": "Porsche 914"
-    },
-    "productionYears": "1969–1972",
-    "manufacturingPlant": "Osnabrück, DE",
-    "description": {
-      "ca": "Una col·laboració entre Volkswagen i Porsche. Mentre que el 914/4 tenia un motor Volkswagen, el 914/6 estava equipat amb un motor Porsche de 6 cilindres. Karmann va fabricar les carrosseries completes.",
-      "en": "A collaboration between Volkswagen and Porsche. While the 914/4 had a Volkswagen engine, the 914/6 was equipped with a 6-cylinder Porsche engine. Karmann manufactured the complete bodies.",
-      "es": "Una colaboración entre Volkswagen y Porsche. Mientras que el 914/4 tenía un motor Volkswagen, el 914/6 estaba equipado con un motor Porsche de 6 cilindros. Karmann fabricó las carrocerías completas.",
-      "de": "Eine Zusammenarbeit zwischen Volkswagen und Porsche. Während der 914/4 einen Volkswagen-Motor hatte, war der 914/6 mit einem 6-Zylinder-Porsche-Motor ausgestattet. Karmann fertigte die kompletten Karosserien.",
-      "fr": "Une collaboration entre Volkswagen et Porsche. Alors que la 914/4 avait un moteur Volkswagen, la 914/6 était équipée d'un moteur Porsche à 6 cylindres. Karmann a fabriqué les carrosseries complètes.",
-      "it": "Una collaborazione tra Volkswagen e Porsche. Mentre la 914/4 aveva un motore Volkswagen, la 914/6 era dotata di un motore Porsche a 6 cilindri. Karmann ha prodotto le scocche complete."
-    },
-    "imageUrl": "assets/images/porsche_914.jpg",
-    "designer": "Ferdinand Alexander Porsche",
-    "engine": {
-      "ca": "Bòxer de 4 i 6 cilindres",
-      "en": "4 and 6-cylinder boxer",
-      "es": "Bóxer de 4 y 6 cilindros",
-      "de": "4- und 6-Zylinder-Boxermotor",
-      "fr": "4 et 6 cylindres à plat (Boxer)",
-      "it": "Boxer a 4 e 6 cilindri"
-    },
-    "topSpeed": {
-      "ca": "Aprox. 207 km/h",
-      "en": "Approx. 207 km/h",
-      "es": "Aprox. 207 km/h",
-      "de": "ca. 207 km/h",
-      "fr": "Env. 207 km/h",
-      "it": "Circa 207 km/h"
-    },
-    "isCabriolet": false,
-    "versions": [],
-    "relatedModels": [14, 15],
-    "unitsProduced": 118978
-  },
-  {
-    "id": 17,
-    "name": {
-      "ca": "Porsche 968",
-      "en": "Porsche 968",
-      "es": "Porsche 968",
-      "de": "Porsche 968",
-      "fr": "Porsche 968",
-      "it": "Porsche 968"
-    },
-    "productionYears": "1992–1995",
-    "manufacturingPlant": "Osnabrück, DE",
-    "description": {
-      "ca": "El 968 va ser l'evolució final de la línia de models amb motor davanter de Porsche. Karmann va rebre l'encàrrec de produir les carrosseries pintades per a les versions Coupé i Cabriolet.",
-      "en": "The 968 was the final evolution of Porsche's front-engine model line. Karmann was commissioned to produce the painted bodies for the Coupé and Cabriolet versions.",
-      "es": "El 968 fue la evolución final de la línea de modelos con motor delantero de Porsche. Karmann recibió el encargo de producir las carrocerías pintadas para las versiones Coupé y Cabriolet.",
-      "de": "Der 968 war die letzte Evolutionsstufe der Frontmotor-Modellreihe von Porsche. Karmann wurde mit der Produktion der lackierten Karosserien für die Coupé- und Cabriolet-Versionen beauftragt.",
-      "fr": "La 968 était l'évolution finale de la gamme de modèles à moteur avant de Porsche. Karmann a été chargé de produire les carrosseries peintes pour les versions Coupé et Cabriolet.",
-      "it": "La 968 è stata l'evoluzione finale della linea di modelli a motore anteriore di Porsche. Karmann è stata incaricata di produrre le scocche verniciate per le versioni Coupé e Cabriolet."
-    },
-    "imageUrl": "assets/images/porsche_968.jpg",
-    "designer": "Harm Lagaay",
-    "engine": {
-      "ca": "4 cilindres en línia",
-      "en": "Inline 4-cylinder",
-      "es": "4 cilindros en línea",
-      "de": "4-Zylinder-Reihenmotor",
-      "fr": "4 cylindres en ligne",
-      "it": "4 cilindri in linea"
-    },
-    "topSpeed": {
-      "ca": "Aprox. 252 km/h",
-      "en": "Approx. 252 km/h",
-      "es": "Aprox. 252 km/h",
-      "de": "ca. 252 km/h",
-      "fr": "Env. 252 km/h",
-      "it": "Circa 252 km/h"
-    },
-    "isCabriolet": true,
-    "versions": [
+{
+    "models": [
       {
-        "versionName": {
-          "ca": "Coupé",
-          "en": "Coupé",
-          "es": "Coupé",
-          "de": "Coupé",
-          "fr": "Coupé",
-          "it": "Coupé"
-        },
-        "productionYears": "1992–1995",
-        "imageUrl": "assets/images/porsche_968_coupe.jpg",
-        "changes": {
-          "ca": "La versió de sostre dur del 968, amb una gran finestra posterior de vidre.",
-          "en": "The hardtop version of the 968, with a large rear glass window.",
-          "es": "La versión de techo duro del 968, con una gran ventana trasera de cristal.",
-          "de": "Die Hardtop-Version des 968, mit einer großen Glasheckscheibe.",
-          "fr": "La version à toit rigide de la 968, avec une grande lunette arrière en verre.",
-          "it": "La versione con tetto rigido della 968, con un ampio lunotto posteriore in vetro."
-        }
+        "id": 38,
+        "name": "1500 / 1600 (Type 3)",
+        "productionYears": "1961-1973",
+        "manufacturingPlant": "Wolfsburg, DE / Emden, DE",
+        "description": "El Volkswagen Tipus 3, comercialitzat com a Volkswagen 1500 i posteriorment 1600, va ser una línia de cotxes familiars que oferia més espai i confort que l'Escarabat. Incloïa variants com el Notchback, el Fastback i el Squareback (Variant).",
+        "imageUrl": "assets/images/tipus3.jpg",
+        "isCabriolet": false,
+        "engine": "1500cc, 45 CV / 1600cc, 54 CV",
+        "topSpeed": "125-135 km/h",
+        "versions": [
+          {"modelYear": "1962", "dateFrom": "1961-04-01", "dateTo": "1962-07-31", "chassisFrom": "000001", "chassisTo": "066739"},
+          {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "066740", "chassisTo": "221974"},
+          {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "221975", "chassisTo": "483592"},
+          {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "315000001", "chassisTo": "315220883"},
+          {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "316000001", "chassisTo": "316316238"},
+          {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "317000001", "chassisTo": "317233853"},
+          {"modelYear": "1968", "dateFrom": "1967-08-01", "dateTo": "1968-07-31", "chassisFrom": "318000001", "chassisTo": "318235387"},
+          {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "319000001", "chassisTo": "319264032"},
+          {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "3102000001", "chassisTo": "3102500000"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "3112000001", "chassisTo": "3112500000"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3122000001", "chassisTo": "3122500000"},
+          {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "3132000001", "chassisTo": "3132500000"}
+        ],
+        "relatedModels": [39, 45],
+        "unitsProduced": 2544772
       },
       {
-        "versionName": {
-          "ca": "Cabriolet",
-          "en": "Cabriolet",
-          "es": "Cabriolet",
-          "de": "Cabriolet",
-          "fr": "Cabriolet",
-          "it": "Cabriolet"
-        },
-        "productionYears": "1992–1995",
-        "imageUrl": "assets/images/porsche_968_cabriolet.jpg",
-        "changes": {
-          "ca": "La versió descapotable, amb un sostre de lona elèctric.",
-          "en": "The convertible version, with an electric canvas roof.",
-          "es": "La versión descapotable, con un techo de lona eléctrico.",
-          "de": "Die Cabrio-Version mit elektrischem Stoffverdeck.",
-          "fr": "La version cabriolet, avec un toit en toile électrique.",
-          "it": "La versione convertibile, con tetto in tela elettrico."
-        }
+        "id": 39,
+        "name": "411 / 412 (Type 4)",
+        "productionYears": "1968-1974",
+        "manufacturingPlant": "Wolfsburg, DE / Ingolstadt, DE",
+        "description": "El Volkswagen Tipus 4, introduït com a 411 i posteriorment actualitzat a 412, va ser el cotxe de passatgers més gran i potent de Volkswagen en el moment del seu llançament. Va introduir una construcció unibody, suspensió MacPherson i una versió del motor boxer refrigerat per aire de VW amb injecció electrònica de combustible de Bosch.",
+        "imageUrl": "assets/images/412.jpg",
+        "isCabriolet": false,
+        "engine": "1700cc-1800cc",
+        "topSpeed": "145-155 km/h",
+        "versions": [
+          {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "419000001", "chassisTo": "419100000"},
+          {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "4102000001", "chassisTo": "4102100000"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "4112000001", "chassisTo": "4112100000"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "4122000001", "chassisTo": "4122100000"},
+          {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "4132000001", "chassisTo": "4132100000"},
+          {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "4142000001", "chassisTo": "4142100000"}
+        ],
+        "relatedModels": [38, 45],
+        "unitsProduced": 367728
+      },
+      {
+        "id": 40,
+        "name": "Karmann Ghia (Type 14)",
+        "productionYears": "1956-1974",
+        "manufacturingPlant": "Osnabrück, DE / São Bernardo do Campo, BR",
+        "description": "El Volkswagen Karmann Ghia Tipus 14 és un cotxe esportiu 2+2 que combina el xassís i la mecànica de l'Escarabat (Tipus 1) amb un estil dissenyat per Ghia i construït per Karmann. Disponible com a coupé i descapotable, va ser un dels dissenys més icònics de Volkswagen.",
+        "imageUrl": "assets/images/karmann14.jpg",
+        "isCabriolet": false,
+        "engine": "1200cc-1600cc",
+        "topSpeed": "120-140 km/h",
+        "versions": [
+          {"modelYear": "1956", "dateFrom": "1955-08-01", "dateTo": "1956-07-31", "chassisFrom": "929746", "chassisTo": "1199554"},
+          {"modelYear": "1957", "dateFrom": "1956-08-01", "dateTo": "1957-07-31", "chassisFrom": "1199555", "chassisTo": "1600439"},
+          {"modelYear": "1958", "dateFrom": "1957-08-01", "dateTo": "1958-07-31", "chassisFrom": "1600440", "chassisTo": "1774680"},
+          {"modelYear": "1959", "dateFrom": "1958-08-01", "dateTo": "1959-07-31", "chassisFrom": "1774681", "chassisTo": "2528667"},
+          {"modelYear": "1960", "dateFrom": "1959-08-01", "dateTo": "1960-07-31", "chassisFrom": "2528668", "chassisTo": "3192506"},
+          {"modelYear": "1961", "dateFrom": "1960-08-01", "dateTo": "1961-07-31", "chassisFrom": "3192507", "chassisTo": "4010994"},
+          {"modelYear": "1962", "dateFrom": "1961-08-01", "dateTo": "1962-07-31", "chassisFrom": "4010995", "chassisTo": "4846835"},
+          {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "4846836", "chassisTo": "5677118"},
+          {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "5677119", "chassisTo": "6502399"},
+          {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "145000001", "chassisTo": "145999000"},
+          {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "146000001", "chassisTo": "1461021300"},
+          {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "147000001", "chassisTo": "147999000"},
+          {"modelYear": "1968", "dateFrom": "1967-08-01", "dateTo": "1968-07-31", "chassisFrom": "148000001", "chassisTo": "148999000"},
+          {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "149000001", "chassisTo": "1491200000"},
+          {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "1402000001", "chassisTo": "1403100000"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "1412000001", "chassisTo": "1413200000"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "1422000001", "chassisTo": "1423200000"},
+          {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "1432000001", "chassisTo": "1432212117"},
+          {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "1442000001", "chassisTo": "1442999000"}
+        ],
+        "relatedModels": [41, 55, 6],
+        "unitsProduced": 445238
+      },
+      {
+        "id": 55,
+        "name": "Karmann Ghia (1962-1972) (Type 14)",
+        "productionYears": "1962-1972",
+        "manufacturingPlant": "São Bernardo do Campo, BR",
+        "description": "El Karmann-Ghia brasiler, conegut per la seva elegància, va ser produït localment per Karmann-Ghia do Brasil. Tot i compartir el nom amb el seu homòleg alemany, el disseny brasiler tenia una estètica pròpia i distintiva. Del total de 23.467 unitats produïdes, aproximadament 177 van ser descapotables oficials (1968-1970). A partir de 1970, va conviure amb el seu successor, el Karmann-Ghia TC (Tipus 145). El seu xassís usava el prefix B, com el Fusca, però amb una numeració seqüencial pròpia.",
+        "imageUrl": "assets/images/karmann14_cabrio.jpg",
+        "isCabriolet": false,
+        "engine": "1200cc-1600cc",
+        "topSpeed": "120-140 km/h",
+        "versions": [
+          {"modelYear": "1962", "dateFrom": "1962-01-01", "dateTo": "1962-07-31", "chassisFrom": "000001", "chassisTo": "000177"},
+          {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "000178", "chassisTo": "000858"},
+          {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "000859", "chassisTo": "001869"},
+          {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "001870", "chassisTo": "003119"},
+          {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "003120", "chassisTo": "005299"},
+          {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "B7005300", "chassisTo": "B7008131", "notes": "Canvi de numeració"},
+          {"modelYear": "1968", "dateFrom": "1967-08-01", "dateTo": "1968-07-31", "chassisFrom": "B8008132", "chassisTo": "B8011380", "notes": "Motor 1500 opcional"},
+          {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "B9011381", "chassisTo": "B9014380", "notes": "Últim any amb 9 dígits"},
+          {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "B0014381", "chassisTo": "B0018440", "notes": "Passa a 10 dígits (Motor 1600)"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "B1018441", "chassisTo": "B1022060", "notes": "Frens de disc davanters de sèrie"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-12-31", "chassisFrom": "B2022061", "chassisTo": "B2023467", "notes": "Fi de producció del Tipus 14"}
+        ],
+        "relatedModels": [40, 56],
+        "unitsProduced": 23467
+      },
+      {
+        "id": 56,
+        "name": "Karmann Ghia TC (1970-1975) (Type 145)",
+        "productionYears": "1970-1975",
+        "manufacturingPlant": "São Bernardo do Campo, BR",
+        "description": "El Volkswagen Karmann-Ghia TC (Touring Coupé) va ser un model esportiu dissenyat i fabricat exclusivament al Brasil. Basat en la plataforma del Variant, presentava una carrosseria fastback més gran i moderna que el seu predecessor, el Tipus 14. Equipat amb el motor de 1600cc, oferia un millor rendiment i més espai interior. Malgrat el seu disseny atractiu i la seva bona acollida, la crisi del petroli dels anys 70 va afectar les vendes i la producció va finalitzar el 1975 sense un successor directe.",
+        "imageUrl": "assets/images/karmann_ghia_tc.jpg",
+        "isCabriolet": false,
+        "engine": "1600cc",
+        "topSpeed": "140 km/h",
+        "versions": [
+          {"modelYear": "1970", "dateFrom": "1970-08-01", "dateTo": "1970-07-31", "chassisFrom": "1450001", "chassisTo": "1450100", "notes": "Llançament inicial"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "1450101", "chassisTo": "1454652"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "1454653", "chassisTo": "14510255"},
+          {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "14510256", "chassisTo": "14514748"},
+          {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "14514749", "chassisTo": "14517789"},
+          {"modelYear": "1975", "dateFrom": "1974-08-01", "dateTo": "1975-07-31", "chassisFrom": "14517790", "chassisTo": "14518578", "notes": "Fi de producció"}
+        ],
+        "relatedModels": [55, 62],
+        "unitsProduced": 18119
+      },
+      {
+        "id": 41,
+        "name": "Karmann Ghia (Type 34)",
+        "productionYears": "1961-1969",
+        "manufacturingPlant": "Osnabrück, DE",
+        "description": "El Volkswagen Karmann Ghia Tipus 34, basat en la plataforma del Tipus 3, era una variant més gran, angular i luxosa que el seu predecessor, el Tipus 14. Dissenyat per Ghia, es va guanyar el sobrenom de 'Razor Edge Ghia' (Ghia de tall d'afaitar) pel seu disseny distintiu. Va ser el cotxe de passatgers més car, ràpid i luxós que VW va fabricar a la seva època.",
+        "imageUrl": "assets/images/karmann34.jpg",
+        "isCabriolet": false,
+        "engine": "1500cc-1600cc",
+        "topSpeed": "150 km/h",
+        "versions": [
+          {"modelYear": "1962", "dateFrom": "1961-09-19", "dateTo": "1962-07-31", "chassisFrom": "000269", "chassisTo": "064915"},
+          {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "064916", "chassisTo": "215174"},
+          {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "215175", "chassisTo": "483592"},
+          {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "345000001", "chassisTo": "345220883"},
+          {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "346000001", "chassisTo": "346316238"},
+          {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "347000001", "chassisTo": "347233853"},
+          {"modelYear": "1968", "dateFrom": "1967-08-01", "dateTo": "1968-07-31", "chassisFrom": "348000001", "chassisTo": "348235387"},
+          {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "349000001", "chassisTo": "349239041"}
+        ],
+        "relatedModels": [40, 8],
+        "unitsProduced": 42505
+      },
+      {
+        "id": 42,
+        "name": "181 o Thing (Type 18)",
+        "productionYears": "1969-1982",
+        "manufacturingPlant": "Wolfsburg, DE / Hannover, DE / Puebla, MX / Ingolstadt, DE",
+        "description": "El Volkswagen Tipus 181, conegut com a 'The Thing' als Estats Units, 'Trekker' al Regne Unit i 'Safari' a Mèxic, era un vehicle militar lleuger de quatre portes, que va gaudir d'una popularitat considerable com a vehicle civil recreatiu.",
+        "imageUrl": "assets/images/typ181.jpg",
+        "isCabriolet": true,
+        "engine": "1500cc-1600cc",
+        "topSpeed": "115 km/h",
+        "versions": [
+          {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "1802000001", "chassisTo": "1803100000"},
+          {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "1812000001", "chassisTo": "1813200000"},
+          {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "1822000001", "chassisTo": "1823200000"},
+          {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "1832000001", "chassisTo": "1833200000"},
+          {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "1842000001", "chassisTo": "1842345678"},
+          {"modelYear": "1975", "dateFrom": "1974-08-01", "dateTo": "1975-07-31", "chassisFrom": "1852000001", "chassisTo": "1852345678"},
+          {"modelYear": "1976", "dateFrom": "1975-08-01", "dateTo": "1976-07-31", "chassisFrom": "1862000001", "chassisTo": "1862115959"},
+          {"modelYear": "1977", "dateFrom": "1976-08-01", "dateTo": "1977-07-31", "chassisFrom": "1872000001", "chassisTo": "1872082862"},
+          {"modelYear": "1978", "dateFrom": "1977-08-01", "dateTo": "1978-07-31", "chassisFrom": "1882000001", "chassisTo": "1882048553"},
+          {"modelYear": "1979", "dateFrom": "1978-08-01", "dateTo": "1979-07-31", "chassisFrom": "1892000001", "chassisTo": "1892000001"},
+          {"modelYear": "1980", "dateFrom": "1979-08-01", "dateTo": "1980-07-31", "chassisFrom": "18-A0000001", "chassisTo": "18-A0000001"},
+          {"modelYear": "1981", "dateFrom": "1980-08-01", "dateTo": "1981-07-31", "chassisFrom": "18-B0000001", "chassisTo": "18-B002386"},
+          {"modelYear": "1982", "dateFrom": "1981-08-01", "dateTo": "1982-07-31", "chassisFrom": "18-C0000001", "chassisTo": "18-C0000001"}
+        ],
+        "relatedModels": [0, 11],
+        "unitsProduced": 140768
       }
-    ],
-    "relatedModels": [14, 16],
-    "unitsProduced": 12776
-  },
-  {
-    "id": 18,
-    "name": {
-      "ca": "Audi 80 Cabriolet",
-      "en": "Audi 80 Cabriolet",
-      "es": "Audi 80 Cabriolet",
-      "de": "Audi 80 Cabriolet",
-      "fr": "Audi 80 Cabriolet",
-      "it": "Audi 80 Cabriolet"
-    },
-    "productionYears": "1991–2000",
-    "manufacturingPlant": "Rheine, DE",
-    "description": {
-      "ca": "Audi va confiar en Karmann per a la producció del seu primer descapotable des de la dècada de 1950. Karmann va construir les carrosseries i va realitzar el muntatge final.",
-      "en": "Audi relied on Karmann for the production of its first convertible since the 1950s. Karmann built the bodies and carried out the final assembly.",
-      "es": "Audi confió en Karmann para la producción de su primer descapotable desde la década de 1950. Karmann construyó las carrocerías y realizó el montaje final.",
-      "de": "Audi verließ sich bei der Produktion seines ersten Cabrios seit den 1950er Jahren auf Karmann. Karmann baute die Karosserien und führte die Endmontage durch.",
-      "fr": "Audi a fait confiance à Karmann pour la production de son premier cabriolet depuis les années 1950. Karmann a construit les carrosseries et a réalisé l'assemblage final.",
-      "it": "L'Audi si è affidata a Karmann per la produzione della sua prima cabriolet dagli anni '50. Karmann ha costruito le scocche e ha effettuato l'assemblaggio finale."
-    },
-    "imageUrl": "assets/images/audi_80_cabriolet.jpg",
-    "imageUrlRemote": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Audi_Cabriolet_2.3E_front.jpg/500px-Audi_Cabriolet_2.3E_front.jpg",
-    "designer": "Audi AG",
-    "engine": {
-      "ca": "4 i 5 cilindres en línia, V6",
-      "en": "Inline 4 & 5-cylinder, V6",
-      "es": "4 y 5 cilindros en línea, V6",
-      "de": "4- und 5-Zylinder-Reihenmotor, V6",
-      "fr": "4 et 5 cylindres en ligne, V6",
-      "it": "4 e 5 cilindri in linea, V6"
-    },
-    "topSpeed": {
-      "ca": "Fins a 220 km/h",
-      "en": "Up to 220 km/h",
-      "es": "Hasta 220 km/h",
-      "de": "Bis zu 220 km/h",
-      "fr": "Jusqu'à 220 km/h",
-      "it": "Fino a 220 km/h"
-    },
-    "isCabriolet": true,
-    "versions": [],
-    "relatedModels": [19],
-    "unitsProduced": 71510
+    ]
   }
-]
