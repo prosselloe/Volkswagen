@@ -20,7 +20,7 @@ Una aplicació completa per als veritables aficionats dels cotxes clàssics de V
     *   Portuguès
 *   **Integració amb IA:** La tecnologia d'IA generativa de Google Gemini s'utilitza per enriquir el contingut i oferir descripcions dinàmiques i detallades.
 
-<img src="assets/images/logo.png" alt="Logo Volkswagen" width="512" height="512" />
+<img src="assets/images/logo.png" alt="Logo Volkswagen" width="300" height="300" />
 
 ## Com contribuir
 
