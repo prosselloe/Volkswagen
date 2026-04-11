@@ -1,21 +1,30 @@
 # Volkswagen Classic App
 
-Una aplicació per als amants dels cotxes clàssics de Volkswagen.
+Una aplicació completa per als veritables aficionats dels cotxes clàssics de Volkswagen, desenvolupada amb Flutter.
 
-## Característiques
+## Característiques principals
 
-*   **Catàleg de models:** Explora una llista de models clàssics de Volkswagen, amb detalls sobre els seus anys de producció, unitats produïdes i molt més.
-*   **Descodificador de VIN:** Introdueix un número d'identificació del vehicle (VIN) de 17 dígits per obtenir informació detallada sobre el teu cotxe, com el país de fabricació, la planta de muntatge i l'any del model.
-*   **Cerca per número de bastidor:** Introdueix un número de bastidor per identificar el model corresponent i obtenir una data de producció aproximada.
-*   **Mapa de plantes:** Visualitza en un mapa les plantes de fabricació de Volkswagen d'arreu del món.
+*   **Catàleg Extens de Models:** Explora una base de dades detallada de models clàssics de Volkswagen. Cada model inclou informació sobre els anys de producció, unitats fabricades, detalls tècnics i context històric.
+*   **Galeria d'Imatges:** Gaudeix d'una àmplia col·lecció d'imatges d'alta qualitat per a cada model, mostrant diferents versions, colors i detalls.
+*   **Descodificador de VIN Avançat:** Introdueix un número d'identificació del vehicle (VIN) de 17 dígits per obtenir informació precisa sobre el teu cotxe, com el país de fabricació, la planta de muntatge, l'any del model i altres especificacions.
+*   **Cerca per Número de Xassís:** Utilitza el número de xassís per identificar el model corresponent i obtenir una data de producció aproximada, ideal per a models anteriors al VIN estandarditzat.
+*   **Mapa Interactiu de Plantes:** Visualitza en un mapa les plantes de fabricació de Volkswagen d'arreu del món, descobrint on es van construir els models icònics.
+*   **Suport Multilingüe:** L'aplicació està disponible en diversos idiomes per a una experiència més accessible:
+    *   Català
+    *   Espanyol
+    *   Anglès
+    *   Alemany
+    *   Francès
+    *   Portuguès
+*   **Integració amb IA:** La tecnologia d'IA generativa de Google Gemini s'utilitza per enriquir el contingut i oferir descripcions dinàmiques i detallades.
 
 ## Com contribuir
 
-Si vols contribuir al projecte, pots obrir una "issue" o enviar una "pull request" al repositori de GitHub.
+Si vols contribuir al projecte, ets benvingut a obrir una "issue" per reportar errors o suggerir millores, o enviar una "pull request" directament al nostre repositori de GitHub.
 
 ## Crèdits
 
-*   **Amics del Volkswagen de Catalunya:** Grup d'amics que tenen una passió comuna: els seus VW Escarabats, que es va fundar l'any 1983.
-*   **Amics dels Escarabats de ses Illes Balears:** T1, T2, VW, VolksWagen, AirCooled, Beetle, Karmann Ghia, Kubelwagen, Buggy.
-*   **TheSamba.com:** Classified ads, photos, shows, links, forums, and technical information for the Volkswagen automobile.
-*   **Google Firebase Gemini:** Tecnologia d'IA generativa.
+*   **[Amics del Volkswagen de Catalunya](https://www.avwc.org/edatvw.php):** Grup d'amics que tenen una passió comuna: els seus VW Escarabats, fundat l'any 1983.
+*   **[Amics dels Escarabats de ses Illes Balears](http.://aeib.info):** Comunitat d'entusiastes de models Air-Cooled com el Beetle, Karmann Ghia, T1, T2, etc.
+*   **[TheSamba.com](https://www.thesamba.com/vw/archives/info/bugchassisdating.php):** Un recurs de referència per a anuncis classificats, fotos, esdeveniments, fòrums i informació tècnica sobre l'automòbil Volkswagen.
+*   **[Google Firebase & Gemini](https://firebase.google.com):** La infraestructura de backend i la tecnologia d'IA generativa que impulsen l'aplicació.
