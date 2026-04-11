@@ -65,8 +65,8 @@
   },
   {
     "id": 46,
-    "name": "Scirocco (Karmann) Mk1 (Type 53)",
-    "productionYears": "1974-1981",
+    "name": "Scirocco Mk1 (1974-1981) (Type 53)",
+    "productionYears": "1974-1979",
     "manufacturingPlant": "Osnabrück, DE",
     "description": "El Volkswagen Scirocco Mk1 va ser un coupé esportiu dissenyat per Giorgetto Giugiaro, basat en la plataforma del Golf Mk1. Llançat el 1974, oferia un estil més esportiu i elegant que el Golf, i va ser un èxit de vendes. La versió GTI, llançada el 1976, va ser especialment popular.",
     "imageUrl": "assets/images/scirocco_mk1.jpg",
@@ -108,8 +108,8 @@
   },
   {
     "id": 48,
-    "name": "Polo Mk1 (Type 86)",
-    "productionYears": "1975-1981",
+    "name": "Polo Mk1 (1975-1981) (Type 86)",
+    "productionYears": "1975-1979",
     "manufacturingPlant": "Wolfsburg, DE",
     "description": "El Volkswagen Polo Mk1, llançat el 1975, va ser un cotxe supermini dissenyat per Bertone, basat en l'Audi 50. Va ser una opció econòmica i pràctica, i va marcar el començament d'una de les sagues de models més exitoses de Volkswagen.",
     "imageUrl": "assets/images/polo_mk1.jpg",
@@ -128,8 +128,8 @@
   },
   {
     "id": 49,
-    "name": "Jetta Mk1 (Type 16)",
-    "productionYears": "1979-1984",
+    "name": "Jetta Mk1 (1979-1984) (Type 16)",
+    "productionYears": "1979",
     "manufacturingPlant": "Wolfsburg, DE",
     "description": "El Volkswagen Jetta Mk1 va ser la resposta de Volkswagen a la demanda d'una berlina tradicional basada en el Golf Mk1. Llançat el 1979, oferia un maleter més gran i un disseny més conservador que el Golf, i va ser especialment popular a Amèrica del Nord.",
     "imageUrl": "assets/images/jetta_mk1.jpg",
@@ -137,15 +137,15 @@
     "engine": "1.1L - 1.8L, 50-112 CV",
     "topSpeed": "142-187 km/h",
     "versions": [
-      {"modelYear": "1979-1984", "dateFrom": "1979-08-01", "dateTo": "1979-12-31", "chassisFrom": "1692000001", "chassisTo": "1692010000"}
+      {"modelYear": "1979", "dateFrom": "1979-08-01", "dateTo": "1979-12-31", "chassisFrom": "1692000001", "chassisTo": "1692010000"}
     ],
     "relatedModels": [46],
     "unitsProduced": 5710330
   },
   {
     "id": 50,
-    "name": "Transporter T3 (Type 25)",
-    "productionYears": "1979-1992",
+    "name": "Transporter T3 (1979-1992) (Type 25)",
+    "productionYears": "1979",
     "manufacturingPlant": "Hanover, DE",
     "description": "La Volkswagen Transporter T3, coneguda com a T25 al Regne Unit i Vanagon als Estats Units, va ser la tercera generació de la mítica furgoneta de Volkswagen. Es va caracteritzar per un disseny més quadrat i modern que les seves predecessores, i va ser l'última generació amb motor posterior.",
     "imageUrl": "assets/images/t3_transporter.jpg",
