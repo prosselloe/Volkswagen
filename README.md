@@ -28,8 +28,3 @@ Si vols contribuir al projecte, ets benvingut a obrir una "issue" per reportar e
 *   **[Amics dels Escarabats de ses Illes Balears](http.://aeib.info):** Comunitat d'entusiastes de models Air-Cooled com el Beetle, Karmann Ghia, T1, T2, etc.
 *   **[TheSamba.com](https://www.thesamba.com/vw/archives/info/bugchassisdating.php):** Un recurs de referència per a anuncis classificats, fotos, esdeveniments, fòrums i informació tècnica sobre l'automòbil Volkswagen.
 *   **[Google Firebase & Gemini](https://firebase.google.com):** La infraestructura de backend i la tecnologia d'IA generativa que impulsen l'aplicació.
-
-*   **[Amics del Volkswagen de Catalunya](https://www.avwc.org/edatvw.php):** Grup d'amics que tenen una passió comuna: els seus VW Escarabats, fundat l'any 1983.
-*   **[Amics dels Escarabats de ses Illes Balears](http.://aeib.info):** Comunitat d'entusiastes de models Air-Cooled com el Beetle, Karmann Ghia, T1, T2, etc.
-*   **[TheSamba.com](https://www.thesamba.com/vw/archives/info/bugchassisdating.php):** Un recurs de referència per a anuncis classificats, fotos, esdeveniments, fòrums i informació tècnica sobre l'automòbil Volkswagen.
-*   **[Google Firebase & Gemini](https://firebase.google.com):** La infraestructura de backend i la tecnologia d'IA generativa que impulsen l'aplicació.
