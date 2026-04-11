@@ -37,85 +37,85 @@ Si vols contribuir al projecte, ets benvingut a obrir una "issue" per reportar e
 <table>
 <tbody>
 <tr>
-<td width="89"><img src="assets/images/1200_1978mexica.jpg"/></td>
-<td width="89"><img src="assets/images/1302_2.jpg"/></td>
-<td width="89"><img src="assets/images/1303.jpg"/></td>
-<td width="89"><img src="assets/images/1500_1967.jpg"/></td>
-<td width="89"><img src="assets/images/1600_1990mexico.jpg"/></td>
-<td width="89"><img src="assets/images/1600_4p.jpg"/></td>
-<td width="89"><img src="assets/images/412.jpg"/></td>
+<td><img src="assets/images/1200_1978mexica.jpg"/></td>
+<td><img src="assets/images/1302_2.jpg"/></td>
+<td><img src="assets/images/1303.jpg"/></td>
+<td><img src="assets/images/1500_1967.jpg"/></td>
+<td><img src="assets/images/1600_1990mexico.jpg"/></td>
+<td><img src="assets/images/1600_4p.jpg"/></td>
+<td><img src="assets/images/412.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/68.jpg"/></td>
-<td width="89"><img src="assets/images/73_1200.jpg"/></td>
-<td width="89"><img src="assets/images/brasilia.jpg"/></td>
-<td width="89"><img src="assets/images/cabrio0.jpg"/></td>
-<td width="89"><img src="assets/images/cabrio1.jpg"/></td>
-<td width="89"><img src="assets/images/cabrio2.jpg"/></td>
-<td width="89"><img src="assets/images/cabrio3.jpg"/></td>
+<td><img src="assets/images/68.jpg"/></td>
+<td><img src="assets/images/73_1200.jpg"/></td>
+<td><img src="assets/images/brasilia.jpg"/></td>
+<td><img src="assets/images/cabrio0.jpg"/></td>
+<td><img src="assets/images/cabrio1.jpg"/></td>
+<td><img src="assets/images/cabrio2.jpg"/></td>
+<td><img src="assets/images/cabrio3.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/golf_mk1.jpg"/></td>
-<td width="89"><img src="assets/images/jetta_mk1.jpg"/></td>
-<td width="89"><img src="assets/images/k70.jpg"/></td>
-<td width="89"><img src="assets/images/karmann14.jpg"/></td>
-<td width="89"><img src="assets/images/karmann14_cabrio.jpg"/></td>
-<td width="89"><img src="assets/images/karmann34.jpg"/></td>
-<td width="89"><img src="assets/images/karmann_ghia_tc.jpg"/></td>
+<td><img src="assets/images/golf_mk1.jpg"/></td>
+<td><img src="assets/images/jetta_mk1.jpg"/></td>
+<td><img src="assets/images/k70.jpg"/></td>
+<td><img src="assets/images/karmann14.jpg"/></td>
+<td><img src="assets/images/karmann14_cabrio.jpg"/></td>
+<td><img src="assets/images/karmann34.jpg"/></td>
+<td><img src="assets/images/karmann_ghia_tc.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/kuebelwagen.jpg"/></td>
-<td width="89"><img src="assets/images/oval.jpg"/></td>
-<td width="89"><img src="assets/images/oval1957usaexport.jpg"/></td>
-<td width="89"><img src="assets/images/passat_b1.jpg"/></td>
-<td width="89"><img src="assets/images/polo_mk1.jpg"/></td>
-<td width="89"><img src="assets/images/scirocco_mk1.jpg"/></td>
-<td width="89"><img src="assets/images/sp2.jpg"/></td>
+<td><img src="assets/images/kuebelwagen.jpg"/></td>
+<td><img src="assets/images/oval.jpg"/></td>
+<td><img src="assets/images/oval1957usaexport.jpg"/></td>
+<td><img src="assets/images/passat_b1.jpg"/></td>
+<td><img src="assets/images/polo_mk1.jpg"/></td>
+<td><img src="assets/images/scirocco_mk1.jpg"/></td>
+<td><img src="assets/images/sp2.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/split.jpg"/></td>
-<td width="89"><img src="assets/images/split1943.jpg"/></td>
-<td width="89"><img src="assets/images/squarewindow01.jpg"/></td>
-<td width="89"><img src="assets/images/squarewindow02.jpg"/></td>
-<td width="89"><img src="assets/images/squarewindow03.jpg"/></td>
-<td width="89"><img src="assets/images/t1.jpg"/></td>
-<td width="89"><img src="assets/images/t1_ambulance.jpg"/></td>
+<td><img src="assets/images/split.jpg"/></td>
+<td><img src="assets/images/split1943.jpg"/></td>
+<td><img src="assets/images/squarewindow01.jpg"/></td>
+<td><img src="assets/images/squarewindow02.jpg"/></td>
+<td><img src="assets/images/squarewindow03.jpg"/></td>
+<td><img src="assets/images/t1.jpg"/></td>
+<td><img src="assets/images/t1_ambulance.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/t1_kombi.jpg"/></td>
-<td width="89"><img src="assets/images/t1_minibus_7.jpg"/></td>
-<td width="89"><img src="assets/images/t1_minibus_8_9.jpg"/></td>
-<td width="89"><img src="assets/images/t1_panel.jpg"/></td>
-<td width="89"><img src="assets/images/t1_pickup.jpg"/></td>
-<td width="89"><img src="assets/images/t1_samba_7.jpg"/></td>
-<td width="89"><img src="assets/images/t1_samba_8_9.jpg"/></td>
+<td><img src="assets/images/t1_kombi.jpg"/></td>
+<td><img src="assets/images/t1_minibus_7.jpg"/></td>
+<td><img src="assets/images/t1_minibus_8_9.jpg"/></td>
+<td><img src="assets/images/t1_panel.jpg"/></td>
+<td><img src="assets/images/t1_pickup.jpg"/></td>
+<td><img src="assets/images/t1_samba_7.jpg"/></td>
+<td><img src="assets/images/t1_samba_8_9.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/t2.jpg"/></td>
-<td width="89"><img src="assets/images/t2_ambulance.jpg"/></td>
-<td width="89"><img src="assets/images/t2_deluxe_7.jpg"/></td>
-<td width="89"><img src="assets/images/t2_deluxe_8_9.jpg"/></td>
-<td width="89"><img src="assets/images/t2_kombi.jpg"/></td>
-<td width="89"><img src="assets/images/t2_minibus_7.jpg"/></td>
-<td width="89"><img src="assets/images/t2_minibus_8_9.jpg"/></td>
+<td><img src="assets/images/t2.jpg"/></td>
+<td><img src="assets/images/t2_ambulance.jpg"/></td>
+<td><img src="assets/images/t2_deluxe_7.jpg"/></td>
+<td><img src="assets/images/t2_deluxe_8_9.jpg"/></td>
+<td><img src="assets/images/t2_kombi.jpg"/></td>
+<td><img src="assets/images/t2_minibus_7.jpg"/></td>
+<td><img src="assets/images/t2_minibus_8_9.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/t2_panel.jpg"/></td>
-<td width="89"><img src="assets/images/t2_pickup.jpg"/></td>
-<td width="89"><img src="assets/images/t3_transporter.jpg"/></td>
-<td width="89"><img src="assets/images/tipus3.jpg"/></td>
-<td width="89"><img src="assets/images/tl_1600.jpg"/></td>
-<td width="89"><img src="assets/images/tl_1600_4p.jpg"/></td>
-<td width="89"><img src="assets/images/typ181.jpg"/></td>
+<td><img src="assets/images/t2_panel.jpg"/></td>
+<td><img src="assets/images/t2_pickup.jpg"/></td>
+<td><img src="assets/images/t3_transporter.jpg"/></td>
+<td><img src="assets/images/tipus3.jpg"/></td>
+<td><img src="assets/images/tl_1600.jpg"/></td>
+<td><img src="assets/images/tl_1600_4p.jpg"/></td>
+<td><img src="assets/images/typ181.jpg"/></td>
 </tr>
 <tr>
-<td width="89"><img src="assets/images/typ1_1948.jpg"/></td>
-<td width="89"><img src="assets/images/variant1.jpg"/></td>
-<td width="89"><img src="assets/images/variant2.jpg"/></td>
-<td width="89"><img src="assets/images/vw38_1938.jpg"/></td>
-<td width="89"><img src="assets/images/vw_porsche_914.jpg"/></td>
-<td width="89">&nbsp;</td>
-<td width="89">&nbsp;</td>
+<td><img src="assets/images/typ1_1948.jpg"/></td>
+<td><img src="assets/images/variant1.jpg"/></td>
+<td><img src="assets/images/variant2.jpg"/></td>
+<td><img src="assets/images/vw38_1938.jpg"/></td>
+<td><img src="assets/images/vw_porsche_914.jpg"/></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
