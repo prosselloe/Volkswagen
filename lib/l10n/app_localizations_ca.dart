@@ -12,18 +12,17 @@ class AppLocalizationsCa extends AppLocalizations {
   String get appTitle => 'Volkswagen Classics';
 
   @override
-  String get chassisSearchDialogTitle => 'Cerca per número de bastidor';
+  String get chassisSearchDialogTitle => 'Cerca per Xassís';
 
   @override
-  String get chassisSearchDialogInfoTooltip =>
-      'Informació sobre el número de bastidor';
+  String get chassisSearchDialogInfoTooltip => 'Informació sobre el xassís';
 
   @override
   String get chassisSearchDialogSubtitle =>
-      'Introduïu el número de bastidor (només números) per trobar el model i la informació de fabricació.';
+      'Introduïu el xassís per trobar el model i la informació de fabricació.';
 
   @override
-  String get chassisSearchDialogHint => 'Número de bastidor';
+  String get chassisSearchDialogHint => 'Introduïu el Xassís';
 
   @override
   String get chassisSearchDialogCloseButton => 'Tancar';
@@ -32,11 +31,11 @@ class AppLocalizationsCa extends AppLocalizations {
   String get chassisSearchDialogSearchButton => 'Cercar';
 
   @override
-  String get vinInfoTitle => 'Què és el número de bastidor?';
+  String get vinInfoTitle => 'Què és el xassís?';
 
   @override
   String get vinInfoContent =>
-      'El número de bastidor, també conegut com a VIN (Vehicle Identification Number), és un codi únic que identifica cada vehicle. En els models clàssics de VW, aquest número és crucial per determinar l\'any, el model i les característiques originals del cotxe.';
+      'El xassís, també conegut com a VIN (Vehicle Identification Number) en models més moderns, és un codi únic que identifica cada vehicle. En els models clàssics de VW, aquest número és crucial per determinar l\'any, el model i les característiques originals del cotxe.';
 
   @override
   String get vinInfoCloseButton => 'Tancar';
@@ -48,7 +47,7 @@ class AppLocalizationsCa extends AppLocalizations {
   String get vinDecoderTooltip => 'Descodificador de VIN';
 
   @override
-  String get chassisSearchTooltip => 'Cercar per bastidor';
+  String get chassisSearchTooltip => 'Cercar per xassís';
 
   @override
   String get filterByPlantTooltip => 'Filtrar per planta';
@@ -151,7 +150,7 @@ class AppLocalizationsCa extends AppLocalizations {
       'Per a vehicles fabricats al període 1980-2009 (17 dígits).';
 
   @override
-  String get vinDecoderDialogHint => 'Introdueix el número de VIN';
+  String get vinDecoderDialogHint => 'Introduïu el VIN';
 
   @override
   String get vinDecoderDialogDecodeButton => 'Descodificar';
@@ -201,7 +200,7 @@ class AppLocalizationsCa extends AppLocalizations {
 
   @override
   String get vinInfoDialogContent =>
-      'Identificació dels números de bastidor Volkswagen a partir de 1980\n\nEls models Volkswagen fabricats a partir de l\'1 d\'agost de 1979 (any de model 1980) van adoptar aquest nou format de número de bastidor. Els dígits 1-3 són l\'identificador mundial del fabricant (WMI), els dígits 4-9 el descriptor del vehicle (VDS), i la resta és l\'identificador del cotxe en particular (VIS).\n\nEn la pràctica, es pot \"descodificar\" el número de la següent manera:\n\n**Dígit 1: Lloc de fabricació**\n  - S-Z: Europa\n  - 1-5: Amèrica del Nord\n\n**Dígit 2: Fabricant**\n  - V: Volkswagen\n\n**Dígit 3: Tipus de vehicle**\n  - W: Cotxes de passatgers VW\n  - 1: Vehicles comercials VW\n  - 2: Models tipus furgoneta VW\n\n**El VDS (Vehicle Descriptor Section)**\n\nA continuació, apareix el tipus de vehicle amb informació sobre la plataforma i la carrosseria. Els dígits 4, 5, 6 i 9 es consideren \"de farciment\" (sovint \"ZZZ\" per als cotxes venuts a Europa).\n\n**Dígits 7 i 8: Designació del tipus de model VW**\n  - Aquests dos dígits identifiquen la plataforma o model. Exemples:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: Furgonetes i pick-ups T4\n  - 86: Primers Polo\n\n**Dígit 10: Any del model**\n  - Aquest dígit indica l\'any de producció, que va de l\'1 d\'agost al 31 de juliol.\n  - Comença amb \'A\' per a 1980, \'B\' per a 1981, i així successivament.\n  - Les lletres I, Q, U, Z i el número 0 no s\'utilitzen.\n  - El cicle es repeteix, de manera que \'A\' pot ser 1980 o 2010.\n\n**Dígit 11: Fàbrica de construcció**\n  - Indica la planta de fabricació del vehicle. Exemples:\n  - W: Wolfsburg (Alemanya)\n  - E: Emden (Alemanya)\n  - M: Puebla (Mèxic)\n  - V: Westmoreland (EUA) o Palmela (Portugal) (es desambigua amb el dígit 1).\n\n**Dígits 12-17: Número de sèrie exclusiu**\n  - Aquests últims sis dígits són el número de producció seqüencial del vehicle en aquella fàbrica i any, començant per 000001.';
+      'Identificació dels xassís de Volkswagen a partir de 1980\n\nEls models Volkswagen fabricats a partir de l\'1 d\'agost de 1979 (any de model 1980) van adoptar aquest nou format de xassís. Els dígits 1-3 són l\'identificador mundial del fabricant (WMI), els dígits 4-9 el descriptor del vehicle (VDS), i la resta és l\'identificador del cotxe en particular (VIS).\n\nEn la pràctica, es pot \"descodificar\" el número de la següent manera:\n\n**Dígit 1: Lloc de fabricació**\n  - S-Z: Europa\n  - 1-5: Amèrica del Nord\n\n**Dígit 2: Fabricant**\n  - V: Volkswagen\n\n**Dígit 3: Tipus de vehicle**\n  - W: Cotxes de passatgers VW\n  - 1: Vehicles comercials VW\n  - 2: Models tipus furgoneta VW\n\n**El VDS (Vehicle Descriptor Section)**\n\nA continuació, apareix el tipus de vehicle amb informació sobre la plataforma i la carrosseria. Els dígits 4, 5, 6 i 9 es consideren \"de farciment\" (sovint \"ZZZ\" per als cotxes venuts a Europa).\n\n**Dígits 7 i 8: Designació del tipus de model VW**\n  - Aquests dos dígits identifiquen la plataforma o model. Exemples:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: Furgonetes i pick-ups T4\n  - 86: Primers Polo\n\n**Dígit 10: Any del model**\n  - Aquest dígit indica l\'any de producció, que va de l\'1 d\'agost al 31 de juliol.\n  - Comença amb \'A\' per a 1980, \'B\' per a 1981, i així successivament.\n  - Les lletres I, Q, U, Z i el número 0 no s\'utilitzen.\n  - El cicle es repeteix, de manera que \'A\' pot ser 1980 o 2010.\n\n**Dígit 11: Fàbrica de construcció**\n  - Indica la planta de fabricació del vehicle. Exemples:\n  - W: Wolfsburg (Alemanya)\n  - E: Emden (Alemanya)\n  - M: Puebla (Mèxic)\n  - V: Westmoreland (EUA) o Palmela (Portugal) (es desambigua amb el dígit 1).\n\n**Dígits 12-17: Número de sèrie exclusiu**\n  - Aquests últims sis dígits són el número de producció seqüencial del vehicle en aquella fàbrica i any, començant per 000001.';
 
   @override
   String get couldNotOpenLink => 'No s\'ha pogut obrir l\'enllaç';

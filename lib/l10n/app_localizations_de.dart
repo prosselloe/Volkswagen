@@ -12,18 +12,17 @@ class AppLocalizationsDe extends AppLocalizations {
   String get appTitle => 'Volkswagen Classics';
 
   @override
-  String get chassisSearchDialogTitle => 'Fahrgestellnummernsuche';
+  String get chassisSearchDialogTitle => 'Fahrgestellsuche';
 
   @override
-  String get chassisSearchDialogInfoTooltip =>
-      'Informationen zur Fahrgestellnummer';
+  String get chassisSearchDialogInfoTooltip => 'Informationen zum Fahrgestell';
 
   @override
   String get chassisSearchDialogSubtitle =>
-      'Geben Sie die Fahrgestellnummer (nur Zahlen) ein, um das Modell und die Herstellungsinformationen zu finden.';
+      'Geben Sie das Fahrgestell ein, um das Modell und die Herstellungsinformationen zu finden.';
 
   @override
-  String get chassisSearchDialogHint => 'Fahrgestellnummer';
+  String get chassisSearchDialogHint => 'Fahrgestell eingeben';
 
   @override
   String get chassisSearchDialogCloseButton => 'Schließen';
@@ -32,11 +31,11 @@ class AppLocalizationsDe extends AppLocalizations {
   String get chassisSearchDialogSearchButton => 'Suchen';
 
   @override
-  String get vinInfoTitle => 'Was ist die Fahrgestellnummer?';
+  String get vinInfoTitle => 'Was ist das Fahrgestell?';
 
   @override
   String get vinInfoContent =>
-      'Die Fahrgestellnummer, auch als VIN (Vehicle Identification Number) bekannt, ist ein einzigartiger Code, der jedes Fahrzeug identifiziert. Bei klassischen VW-Modellen ist diese Nummer entscheidend für die Bestimmung von Baujahr, Modell und Originalausstattung des Autos.';
+      'Das Fahrgestell, bei neueren Modellen auch als VIN (Vehicle Identification Number) bekannt, ist ein einzigartiger Code, der jedes Fahrzeug identifiziert. Bei klassischen VW-Modellen ist diese Nummer entscheidend für die Bestimmung von Baujahr, Modell und Originalausstattung des Autos.';
 
   @override
   String get vinInfoCloseButton => 'Schließen';
@@ -150,7 +149,7 @@ class AppLocalizationsDe extends AppLocalizations {
       'Für Fahrzeuge, die im Zeitraum 1980-2009 hergestellt wurden (17 Ziffern).';
 
   @override
-  String get vinDecoderDialogHint => 'Geben Sie die VIN-Nummer ein';
+  String get vinDecoderDialogHint => 'Geben Sie die VIN ein';
 
   @override
   String get vinDecoderDialogDecodeButton => 'Dekodieren';
@@ -201,7 +200,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get vinInfoDialogContent =>
-      'Identifizierung von Volkswagen-Fahrgestellnummern ab 1980\n\nVolkswagen-Modelle, die ab dem 1. August 1979 (Modelljahr 1980) hergestellt wurden, übernahmen dieses neue Fahrgestellnummernformat. Die Ziffern 1-3 sind der Weltherstellercode (WMI), die Ziffern 4-9 der Fahrzeugbeschreibungsabschnitt (VDS) und der Rest ist der Fahrzeugidentifizierungsabschnitt (VIS).\n\nIn der Praxis kann die Nummer wie folgt \"dekodiert\" werden:\n\n**Ziffer 1: Herstellungsort**\n  - S-Z: Europa\n  - 1-5: Nordamerika\n\n**Ziffer 2: Hersteller**\n  - V: Volkswagen\n\n**Ziffer 3: Fahrzeugtyp**\n  - W: VW-Pkw\n  - 1: VW-Nutzfahrzeuge\n  - 2: VW-Transportermodelle\n\n**Der VDS (Vehicle Descriptor Section)**\n\nAls Nächstes erscheint der Fahrzeugtyp mit Informationen zur Plattform und Karosserie. Die Ziffern 4, 5, 6 und 9 gelten als \"Füllzeichen\" (oft \"ZZZ\" für in Europa verkaufte Autos).\n\n**Ziffern 7 und 8: VW-Modelltypbezeichnung**\n  - Diese beiden Ziffern identifizieren die Plattform oder das Modell. Beispiele:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: T4-Transporter und -Pick-ups\n  - 86: Früher Polo\n\n**Ziffer 10: Modelljahr**\n  - Diese Ziffer gibt das Produktionsjahr an, das vom 1. August bis zum 31. Juli läuft.\n  - Es beginnt mit \'A\' für 1980, \'B\' für 1981 und so weiter.\n  - Die Buchstaben I, Q, U, Z und die Zahl 0 werden nicht verwendet.\n  - Der Zyklus wiederholt sich, sodass \'A\' 1980 oder 2010 sein kann.\n\n**Ziffer 11: Herstellungsfabrik**\n  - Gibt das Werk an, in dem das Fahrzeug hergestellt wurde. Beispiele:\n  - W: Wolfsburg (Deutschland)\n  - E: Emden (Deutschland)\n  - M: Puebla (Mexiko)\n  - V: Westmoreland (USA) oder Palmela (Portugal) (wird durch Ziffer 1 unterschieden).\n\n**Ziffern 12-17: Eindeutige Seriennummer**\n  - Diese letzten sechs Ziffern sind die fortlaufende Produktionsnummer des Fahrzeugs in dieser Fabrik und diesem Jahr, beginnend mit 000001.';
+      'Identifizierung von Volkswagen-Fahrgestellen ab 1980\n\nVolkswagen-Modelle, die ab dem 1. August 1979 (Modelljahr 1980) hergestellt wurden, übernahmen dieses neue Fahrgestellformat. Die Ziffern 1-3 sind der Weltherstellercode (WMI), die Ziffern 4-9 der Fahrzeugbeschreibungsabschnitt (VDS) und der Rest ist der Fahrzeugidentifizierungsabschnitt (VIS).\n\nIn der Praxis kann die Nummer wie folgt \"dekodiert\" werden:\n\n**Ziffer 1: Herstellungsort**\n  - S-Z: Europa\n  - 1-5: Nordamerika\n\n**Ziffer 2: Hersteller**\n  - V: Volkswagen\n\n**Ziffer 3: Fahrzeugtyp**\n  - W: VW-Pkw\n  - 1: VW-Nutzfahrzeuge\n  - 2: VW-Transportermodelle\n\n**Der VDS (Vehicle Descriptor Section)**\n\nAls Nächstes erscheint der Fahrzeugtyp mit Informationen zur Plattform und Karosserie. Die Ziffern 4, 5, 6 und 9 gelten als \"Füllzeichen\" (oft \"ZZZ\" für in Europa verkaufte Autos).\n\n**Ziffern 7 und 8: VW-Modelltypbezeichnung**\n  - Diese beiden Ziffern identifizieren die Plattform oder das Modell. Beispiele:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: T4-Transporter und -Pick-ups\n  - 86: Früher Polo\n\n**Ziffer 10: Modelljahr**\n  - Diese Ziffer gibt das Produktionsjahr an, das vom 1. August bis zum 31. Juli läuft.\n  - Es beginnt mit \'A\' für 1980, \'B\' für 1981 und so weiter.\n  - Die Buchstaben I, Q, U, Z und die Zahl 0 werden nicht verwendet.\n  - Der Zyklus wiederholt sich, sodass \'A\' 1980 oder 2010 sein kann.\n\n**Ziffer 11: Herstellungsfabrik**\n  - Gibt das Werk an, in dem das Fahrzeug hergestellt wurde. Beispiele:\n  - W: Wolfsburg (Deutschland)\n  - E: Emden (Deutschland)\n  - M: Puebla (Mexiko)\n  - V: Westmoreland (USA) oder Palmela (Portugal) (wird durch Ziffer 1 unterschieden).\n\n**Ziffern 12-17: Eindeutige Seriennummer**\n  - Diese letzten sechs Ziffern sind die fortlaufende Produktionsnummer des Fahrzeugs in dieser Fabrik und diesem Jahr, beginnend mit 000001.';
 
   @override
   String get couldNotOpenLink => 'Der Link konnte nicht geöffnet werden';

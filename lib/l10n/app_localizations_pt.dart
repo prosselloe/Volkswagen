@@ -12,18 +12,17 @@ class AppLocalizationsPt extends AppLocalizations {
   String get appTitle => 'Volkswagen Classics';
 
   @override
-  String get chassisSearchDialogTitle => 'Pesquisa por número de chassi';
+  String get chassisSearchDialogTitle => 'Pesquisa por Chassi';
 
   @override
-  String get chassisSearchDialogInfoTooltip =>
-      'Informações sobre o número do chassi';
+  String get chassisSearchDialogInfoTooltip => 'Informações sobre o chassi';
 
   @override
   String get chassisSearchDialogSubtitle =>
-      'Digite o número do chassi (apenas números) para encontrar o modelo e as informações de fabricação.';
+      'Digite o chassi para encontrar o modelo e as informações de fabricação.';
 
   @override
-  String get chassisSearchDialogHint => 'Número do chassi';
+  String get chassisSearchDialogHint => 'Digite o Chassi';
 
   @override
   String get chassisSearchDialogCloseButton => 'Fechar';
@@ -32,11 +31,11 @@ class AppLocalizationsPt extends AppLocalizations {
   String get chassisSearchDialogSearchButton => 'Pesquisar';
 
   @override
-  String get vinInfoTitle => 'O que é o número do chassi?';
+  String get vinInfoTitle => 'O que é o chassi?';
 
   @override
   String get vinInfoContent =>
-      'O número do chassi, também conhecido como VIN (Vehicle Identification Number), é um código único que identifica cada veículo. Nos modelos clássicos da VW, esse número é crucial para determinar o ano, o modelo e as características originais do carro.';
+      'O chassi, também conhecido como VIN (Vehicle Identification Number) em modelos mais modernos, é um código único que identifica cada veículo. Nos modelos clássicos da VW, esse número é crucial para determinar o ano, o modelo e as características originais do carro.';
 
   @override
   String get vinInfoCloseButton => 'Fechar';
@@ -101,7 +100,7 @@ class AppLocalizationsPt extends AppLocalizations {
   String get manufacturingPlant => 'Fábrica de produção';
 
   @override
-  String get modelYearsAndChassis => 'Anos do modelo e chassi';
+  String get modelYearsAndChassis => 'Anys de model i xassís';
 
   @override
   String modelYear(Object year) {
@@ -150,7 +149,7 @@ class AppLocalizationsPt extends AppLocalizations {
       'Para veículos fabricados no período de 1980-2009 (17 dígitos).';
 
   @override
-  String get vinDecoderDialogHint => 'Digite o número do VIN';
+  String get vinDecoderDialogHint => 'Introduza o VIN';
 
   @override
   String get vinDecoderDialogDecodeButton => 'Decodificar';
@@ -200,7 +199,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get vinInfoDialogContent =>
-      'Identificação dos números de chassi da Volkswagen a partir de 1980\n\nOs modelos da Volkswagen fabricados a partir de 1º de agosto de 1979 (ano modelo 1980) adotaram este novo formato de número de chassi. Os dígitos 1-3 são o Identificador Mundial do Fabricante (WMI), os dígitos 4-9 são a Seção de Descrição do Veículo (VDS) e o restante é a Seção de Identificação do Veículo (VIS).\n\nNa prática, o número pode ser \"decodificado\" da seguinte forma:\n\n**Dígito 1: Local de fabricação**\n  - S-Z: Europa\n  - 1-5: América do Norte\n\n**Dígito 2: Fabricante**\n  - V: Volkswagen\n\n**Dígito 3: Tipo de veículo**\n  - W: Carros de passageiros VW\n  - 1: Veículos comerciais VW\n  - 2: Modelos tipo van da VW\n\n**O VDS (Seção de Descrição do Veículo)**\n\nA seguir, o tipo de veículo aparece com informações sobre a plataforma e a carroceria. Os dígitos 4, 5, 6 e 9 são considerados \"preenchimentos\" (geralmente \"ZZZ\" para carros vendidos na Europa).\n\n**Dígitos 7 e 8: Designação do tipo de modelo da VW**\n  - Estes dois dígitos identificam a plataforma ou o modelo. Exemplos:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: Vans e picapes T4\n  - 86: Polo antigo\n\n**Dígito 10: Ano do modelo**\n  - Este dígito indica o ano de produção, que vai de 1º de agosto a 31 de julho.\n  - Começa com \'A\' para 1980, \'B\' para 1981 e assim por diante.\n  - As letras I, Q, U, Z e o número 0 não são usadas.\n  - O ciclo se repete, então \'A\' pode ser 1980 ou 2010.\n\n**Dígito 11: Fábrica de produção**\n  - Indica a fábrica de produção do veículo. Exemplos:\n  - W: Wolfsburg (Alemanha)\n  - E: Emden (Alemanha)\n  - M: Puebla (México)\n  - V: Westmoreland (EUA) ou Palmela (Portugal) (desambiguado pelo dígito 1).\n\n**Dígitos 12-17: Número de série exclusivo**\n  - Estes últimos seis dígitos são o número de produção sequencial do veículo naquela fábrica e ano, começando em 000001.';
+      'Identificação dos chassis da Volkswagen a partir de 1980\n\nOs modelos da Volkswagen fabricados a partir de 1º de agosto de 1979 (ano modelo 1980) adotaram este novo formato de chassi. Os dígitos 1-3 são o Identificador Mundial do Fabricante (WMI), os dígitos 4-9 são a Seção de Descrição do Veículo (VDS) e o restante é a Seção de Identificação do Veículo (VIS).\n\nNa prática, o número pode ser \"decodificado\" da seguinte forma:\n\n**Dígito 1: Local de fabricação**\n  - S-Z: Europa\n  - 1-5: América do Norte\n\n**Dígito 2: Fabricante**\n  - V: Volkswagen\n\n**Dígito 3: Tipo de veículo**\n  - W: Carros de passageiros VW\n  - 1: Veículos comerciais VW\n  - 2: Modelos tipo van da VW\n\n**O VDS (Seção de Descrição do Veículo)**\n\nA seguir, o tipo de veículo aparece com informações sobre a plataforma e a carroceria. Os dígitos 4, 5, 6 e 9 são considerados \"preenchimentos\" (geralmente \"ZZZ\" para carros vendidos na Europa).\n\n**Dígitos 7 e 8: Designação do tipo de modelo da VW**\n  - Estes dois dígitos identificam a plataforma ou o modelo. Exemplos:\n  - 17: Golf Mk1\n  - 19: Golf Mk2\n  - 7H: T5\n  - 70: Vans e picapes T4\n  - 86: Polo antigo\n\n**Dígito 10: Ano do modelo**\n  - Este dígito indica o ano de produção, que vai de 1º de agosto a 31 de julho.\n  - Começa com \'A\' para 1980, \'B\' para 1981 e assim por diante.\n  - As letras I, Q, U, Z e o número 0 não são usadas.\n  - O ciclo se repete, então \'A\' pode ser 1980 ou 2010.\n\n**Dígito 11: Fábrica de produção**\n  - Indica a fábrica de produção do veículo. Exemplos:\n  - W: Wolfsburg (Alemanha)\n  - E: Emden (Alemanha)\n  - M: Puebla (México)\n  - V: Westmoreland (EUA) ou Palmela (Portugal) (desambiguado pelo dígito 1).\n\n**Dígitos 12-17: Número de série exclusivo**\n  - Estes últimos seis dígitos são o número de produção sequencial do veículo naquela fábrica e ano, começando em 000001.';
 
   @override
   String get couldNotOpenLink => 'Não foi possível abrir o link';

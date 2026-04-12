@@ -12,18 +12,17 @@ class AppLocalizationsFr extends AppLocalizations {
   String get appTitle => 'Volkswagen Classics';
 
   @override
-  String get chassisSearchDialogTitle => 'Recherche par numéro de châssis';
+  String get chassisSearchDialogTitle => 'Recherche par Châssis';
 
   @override
-  String get chassisSearchDialogInfoTooltip =>
-      'Informations sur le numéro de châssis';
+  String get chassisSearchDialogInfoTooltip => 'Informations sur le châssis';
 
   @override
   String get chassisSearchDialogSubtitle =>
-      'Entrez le numéro de châssis (chiffres uniquement) pour trouver le modèle et les informations de fabrication.';
+      'Entrez le châssis pour trouver le modèle et les informations de fabrication.';
 
   @override
-  String get chassisSearchDialogHint => 'Numéro de châssis';
+  String get chassisSearchDialogHint => 'Entrez le Châssis';
 
   @override
   String get chassisSearchDialogCloseButton => 'Fermer';
@@ -32,11 +31,11 @@ class AppLocalizationsFr extends AppLocalizations {
   String get chassisSearchDialogSearchButton => 'Rechercher';
 
   @override
-  String get vinInfoTitle => 'Qu\'est-ce que le numéro de châssis ?';
+  String get vinInfoTitle => 'Qu\'est-ce que le châssis ?';
 
   @override
   String get vinInfoContent =>
-      'Le numéro de châssis, également connu sous le nom de VIN (Vehicle Identification Number), est un code unique qui identifie chaque véhicule. Dans les modèles VW classiques, ce numéro est crucial pour déterminer l\'année, le modèle et les caractéristiques d\'origine de la voiture.';
+      'Le châssis, également connu sous le nom de VIN (Vehicle Identification Number) dans les modèles plus modernes, est un code unique qui identifie chaque véhicule. Dans les modèles VW classiques, ce numéro est crucial pour déterminer l\'année, le modèle et les caractéristiques d\'origine de la voiture.';
 
   @override
   String get vinInfoCloseButton => 'Fermer';
@@ -150,7 +149,7 @@ class AppLocalizationsFr extends AppLocalizations {
       'Pour les véhicules fabriqués entre 1980 et 2009 (17 chiffres).';
 
   @override
-  String get vinDecoderDialogHint => 'Entrez le numéro VIN';
+  String get vinDecoderDialogHint => 'Entrez le VIN';
 
   @override
   String get vinDecoderDialogDecodeButton => 'Décoder';
@@ -200,7 +199,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get vinInfoDialogContent =>
-      'Identification des numéros de châssis Volkswagen à partir de 1980\n\nLes modèles Volkswagen fabriqués à partir du 1er août 1979 (année modèle 1980) ont adopté ce nouveau format de numéro de châssis. Les chiffres 1 à 3 correspondent à l\'identifiant mondial du constructeur (WMI), les chiffres 4 à 9 à la section de description du véhicule (VDS) et le reste à la section d\'identification du véhicule (VIS).\n\nEn pratique, le numéro peut être \"décodé\" comme suit :\n\n**Chiffre 1 : Lieu de fabrication**\n  - S-Z : Europe\n  - 1-5 : Amérique du Nord\n\n**Chiffre 2 : Fabricant**\n  - V : Volkswagen\n\n**Chiffre 3 : Type de véhicule**\n  - W : Voitures de tourisme VW\n  - 1 : Véhicules utilitaires VW\n  - 2 : Modèles de type fourgonnette VW\n\n**La VDS (Section de description du véhicule)**\n\nEnsuite, le type de véhicule apparaît avec des informations sur la plate-forme et la carrosserie. Les chiffres 4, 5, 6 et 9 sont considérés comme des \"remplissages\" (souvent \"ZZZ\" pour les voitures vendues en Europe).\n\n**Chiffres 7 et 8 : Désignation du type de modèle VW**\n  - Ces deux chiffres identifient la plate-forme ou le modèle. Exemples :\n  - 17 : Golf Mk1\n  - 19 : Golf Mk2\n  - 7H : T5\n  - 70 : Fourgonnettes et camionnettes T4\n  - 86 : Première Polo\n\n**Chiffre 10 : Année modèle**\n  - Ce chiffre indique l\'année de production, qui s\'étend du 1er août au 31 juillet.\n  - Il commence par \'A\' pour 1980, \'B\' pour 1981, et ainsi de suite.\n  - Les lettres I, Q, U, Z et le chiffre 0 ne sont pas utilisés.\n  - Le cycle se répète, donc \'A\' peut être 1980 ou 2010.\n\n**Chiffre 11 : Usine de fabrication**\n  - Indique l\'usine de fabrication du véhicule. Exemples :\n  - W : Wolfsburg (Allemagne)\n  - E : Emden (Allemagne)\n  - M : Puebla (Mexique)\n  - V : Westmoreland (États-Unis) ou Palmela (Portugal) (désambiguïsé par le chiffre 1).\n\n**Chiffres 12-17 : Numéro de série unique**\n  - Ces six derniers chiffres correspondent au numéro de production séquentiel du véhicule dans cette usine et cette année-là, à partir de 000001.';
+      'Identification des châssis Volkswagen à partir de 1980\n\nLes modèles Volkswagen fabriqués à partir du 1er août 1979 (année modèle 1980) ont adopté ce nouveau format de châssis. Les chiffres 1 à 3 correspondent à l\'identifiant mondial du constructeur (WMI), les chiffres 4 à 9 à la section de description du véhicule (VDS) et le reste à la section d\'identification du véhicule (VIS).\n\nEn pratique, le numéro peut être \"décodé\" comme suit :\n\n**Chiffre 1 : Lieu de fabrication**\n  - S-Z : Europe\n  - 1-5 : Amérique du Nord\n\n**Chiffre 2 : Fabricant**\n  - V : Volkswagen\n\n**Chiffre 3 : Type de véhicule**\n  - W : Voitures de tourisme VW\n  - 1 : Véhicules utilitaires VW\n  - 2 : Modèles de type fourgonnette VW\n\n**La VDS (Section de description du véhicule)**\n\nEnsuite, le type de véhicule apparaît avec des informations sur la plate-forme et la carrosserie. Les chiffres 4, 5, 6 et 9 sont considérés comme des \"remplissages\" (souvent \"ZZZ\" pour les voitures vendues en Europe).\n\n**Chiffres 7 et 8 : Désignation du type de modèle VW**\n  - Ces deux chiffres identifient la plate-forme ou le modèle. Exemples :\n  - 17 : Golf Mk1\n  - 19 : Golf Mk2\n  - 7H : T5\n  - 70 : Fourgonnettes et camionnettes T4\n  - 86 : Première Polo\n\n**Chiffre 10 : Année modèle**\n  - Ce chiffre indique l\'année de production, qui s\'étend du 1er août au 31 juillet.\n  - Il commence par \'A\' pour 1980, \'B\' pour 1981, et ainsi de suite.\n  - Les lettres I, Q, U, Z et le chiffre 0 ne sont pas utilisés.\n  - Le cycle se répète, donc \'A\' peut être 1980 ou 2010.\n\n**Chiffre 11 : Usine de fabrication**\n  - Indique l\'usine de fabrication du véhicule. Exemples :\n  - W : Wolfsburg (Allemagne)\n  - E : Emden (Allemagne)\n  - M : Puebla (Mexique)\n  - V : Westmoreland (États-Unis) ou Palmela (Portugal) (désambiguïsé par le chiffre 1).\n\n**Chiffres 12-17 : Numéro de série unique**\n  - Ces six derniers chiffres correspondent au numéro de production séquentiel du véhicule dans cette usine et cette année-là, à partir de 000001.';
 
   @override
   String get couldNotOpenLink => 'Impossible d\'ouvrir le lien';
