@@ -156,7 +156,7 @@
     "id": 7,
     "name": "Square Window (1958-1961) (Type 1)",
     "productionYears": "1959-1961",
-    "manufacturingPlant": "Wolfsburg, DE / Brussels, BE / Auckland, NZ / Ingolstadt, DE / Jakarta, ID / Manila, PH",
+    "manufacturingPlant": "Wolfsburg, DE / Brussels, BE / Melbourne (Clayton), AU / Auckland, NZ / Ingolstadt, DE / Jakarta, ID / Manila, PH",
     "description_ca": "S'introdueix la lluneta posterior rectangular gran, un canvi que modernitza el cotxe. El 1961 el motor puja a 34 CV i, de manera crucial, s'incorporen les marxes totalment sincronitzades.",
     "description_en": "The large rectangular rear window is introduced, a change that modernizes the car. In 1961 the engine increases to 34 HP and, crucially, fully synchronized gears are incorporated.",
     "description_es": "Se introduce la luneta trasera rectangular grande, un cambio que moderniza el coche. En 1961 el motor sube a 34 CV y, de manera crucial, se incorporan las marchas totalmente sincronizadas.",
@@ -179,7 +179,7 @@
     "id": 8,
     "name": "Square Window (1962-1965) (Type 1)",
     "productionYears": "1962-1965",
-    "manufacturingPlant": "Wolfsburg, DE / Brussels, BE / Auckland, NZ / Ingolstadt, DE / Xalostoc, MX / Jakarta, ID / Manila, PH / Palma Sola, VE",
+    "manufacturingPlant": "Wolfsburg, DE / Brussels, BE / Melbourne (Clayton), AU / Auckland, NZ / Ingolstadt, DE / Xalostoc, MX / Jakarta, ID / Manila, PH / Palma Sola, VE",
     "description_ca": "El disseny de finestra gran es consolida. Són anys de refinament, amb millores en la calefacció, més opcions de colors i acabats interiors, mantenint el fiable motor 1200 de 34 CV.",
     "description_en": "The large window design is consolidated. These are years of refinement, with improvements in heating, more color options and interior finishes, while maintaining the reliable 1200 engine with 34 HP.",
     "description_es": "El diseño de ventana grande se consolida. Son años de refinamiento, con mejoras en la calefacción, más opciones de colores y acabados interiores, manteniendo el fiable motor 1200 de 34 CV.",
@@ -202,7 +202,7 @@
     "id": 9,
     "name": "1300 (1966) (Type 1)",
     "productionYears": "1966",
-    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Brussels, BE / Auckland, NZ / Jakarta, ID / Manila, PH / Palma Sola, VE",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Brussels, BE / Melbourne (Clayton), AU / Auckland, NZ / Jakarta, ID / Manila, PH / Palma Sola, VE",
     "description_ca": "Any de canvis significatius. S'introdueix el motor de 1300cc (40 CV). A partir d'aquest any model (agost 1965), els fars passen a ser verticals, modernitzant l'aspecte frontal.",
     "description_en": "Year of significant changes. The 1300cc (40 HP) engine is introduced. Starting with this model year (August 1965), the headlights become vertical, modernizing the front appearance.",
     "description_es": "Año de cambios significativos. Se introduce el motor de 1300cc (40 CV). A partir de este año modelo (agosto de 1965), los faros pasan a ser verticales, modernizando el aspecto frontal.",
@@ -222,7 +222,7 @@
     "id": 10,
     "name": "1500 (1967) (Type 1)",
     "productionYears": "1967",
-    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Brussels, BE / Auckland, NZ / Jakarta, ID / Manila, PH / Palma Sola, VE",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Brussels, BE / Melbourne (Clayton), AU / Auckland, NZ / Jakarta, ID / Manila, PH / Palma Sola, VE",
     "description_ca": "Model de transició clau: s'introdueix el motor de 1500cc (44 CV), s'abandona el sistema elèctric de 6V pel de 12V i s'escurcen les tapes del capó i motor.",
     "description_en": "Key transition model: the 1500cc (44 HP) engine is introduced, the 6V electrical system is abandoned for the 12V one, and the hood and engine covers are shortened.",
     "description_es": "Modelo de transición clave: se introduce el motor de 1500cc (44 CV), se abandona el sistema eléctrico de 6V por el de 12V y se acortan las tapas del capó y motor.",
@@ -288,3 +288,4 @@
     "unitsProduced": 1358976
   }
 ]
+
