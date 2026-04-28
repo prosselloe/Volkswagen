@@ -41,6 +41,14 @@
   },
   {
     "id": 6,
+    "name": "Dublin, IE",
+    "flag": "🇮🇪",
+    "coordinates": { "latitude": 53.3498, "longitude": -6.2603 },
+    "dateFrom": "1950",
+    "dateTo": "1980"
+  },  
+  {
+    "id": 7,
     "name": "Brussels, BE",
     "flag": "🇧🇪",
     "coordinates": { "latitude": 50.8503, "longitude": 4.3517 },
@@ -48,7 +56,15 @@
     "dateTo": "2025"
   },
   {
-    "id": 7,
+    "id": 8,
+    "name": "Vendas Novas, PT",
+    "flag": "🇵🇹",
+    "coordinates": { "latitude": 38.6771, "longitude": -8.4571 },
+    "dateFrom": "1964",
+    "dateTo": "1980"
+  },  
+  {
+    "id": 9,
     "name": "São Bernardo do Campo, BR",
     "flag": "🇧🇷",
     "coordinates": { "latitude": -23.6939, "longitude": -46.5650 },
@@ -56,7 +72,15 @@
     "dateTo": null
   },
   {
-    "id": 8,
+    "id": 10,
+    "name": "Taubaté, BR",
+    "flag": "🇧🇷",
+    "coordinates": { "latitude": -23.0251, "longitude": -45.5553 },
+    "dateFrom": "1976",
+    "dateTo": null
+  },  
+  {
+    "id": 11,
     "name": "Xalostoc, MX",
     "flag": "🇲🇽",
     "coordinates": { "latitude": 19.5136, "longitude": -99.0856 },
@@ -64,7 +88,7 @@
     "dateTo": "1965"
   },
   {
-    "id": 9,
+    "id": 12,
     "name": "Puebla, MX",
     "flag": "🇲🇽",
     "coordinates": { "latitude": 19.0414, "longitude": -98.2063 },
@@ -72,7 +96,7 @@
     "dateTo": null
   },
   {
-    "id": 10,
+    "id": 13,
     "name": "Uitenhage (Kariega), ZA",
     "flag": "🇿🇦",
     "coordinates": { "latitude": -33.7593, "longitude": 25.4022 },
@@ -80,7 +104,7 @@
     "dateTo": null
   },
   {
-    "id": 11,
+    "id": 14,
     "name": "Melbourne (Clayton), AU",
     "flag": "🇦🇺",
     "coordinates": { "latitude": -37.8136, "longitude": 144.9631 },
@@ -88,7 +112,7 @@
     "dateTo": "1976"
   },
   {
-    "id": 12,
+    "id": 15,
     "name": "Auckland, NZ",
     "flag": "🇳🇿",
     "coordinates": { "latitude": -36.8485, "longitude": 174.7633 },
@@ -96,7 +120,7 @@
     "dateTo": "1980"
   },
   {
-    "id": 13,
+    "id": 16,
     "name": "Lima, PE",
     "flag": "🇵🇪",
     "coordinates": { "latitude": -12.0464, "longitude": -77.0428 },
@@ -104,7 +128,7 @@
     "dateTo": "1992"
   },
   {
-    "id": 14,
+    "id": 17,
     "name": "Nueva Palmira, UY",
     "flag": "🇺🇾",
     "coordinates": { "latitude": -33.8833, "longitude": -58.4167 },
@@ -112,7 +136,7 @@
     "dateTo": "1990"
   },
   {
-    "id": 15,
+    "id": 18,
     "name": "Lagos, NG",
     "flag": "🇳🇬",
     "coordinates": { "latitude": 6.5244, "longitude": 3.3792 },
@@ -120,7 +144,7 @@
     "dateTo": "1990"
   },
   {
-    "id": 16,
+    "id": 19,
     "name": "Sarajevo, BA",
     "flag": "🇧🇦",
     "coordinates": { "latitude": 43.8563, "longitude": 18.4131 },
@@ -128,7 +152,7 @@
     "dateTo": "1992"
   },
   {
-    "id": 17,
+    "id": 20,
     "name": "Jakarta, ID",
     "flag": "🇮🇩",
     "coordinates": { "latitude": -6.2088, "longitude": 106.8456 },
@@ -136,7 +160,7 @@
     "dateTo": null
   },
   {
-    "id": 18,
+    "id": 21,
     "name": "Shah Alam, MY",
     "flag": "🇲🇾",
     "coordinates": { "latitude": 3.0738, "longitude": 101.5183 },
@@ -144,15 +168,15 @@
     "dateTo": null
   },
   {
-    "id": 19,
+    "id": 22,
     "name": "Heinola, FI",
     "flag": "🇫🇮",
     "coordinates": { "latitude": 61.2032, "longitude": 26.0354 },
-    "dateFrom": "1940",
-    "dateTo": "1950"
+    "dateFrom": "1968",
+    "dateTo": "1976"
   },
   {
-    "id": 20,
+    "id": 23,
     "name": "Manila, PH",
     "flag": "🇵🇭",
     "coordinates": { "latitude": 14.5995, "longitude": 120.9842 },
@@ -160,7 +184,7 @@
     "dateTo": "1980"
   },
   {
-    "id": 21,
+    "id": 24,
     "name": "Palma Sola, VE",
     "flag": "🇻🇪",
     "coordinates": { "latitude": 10.6333, "longitude": -68.3000 },
@@ -168,11 +192,35 @@
     "dateTo": "1980"
   },
   {
-    "id": 22,
+    "id": 25,
+    "name": "Bangkok, TH",
+    "flag": "🇹🇭",
+    "coordinates": { "latitude": 13.7563, "longitude": 100.5018 },
+    "dateFrom": "1972",
+    "dateTo": "1980"
+  },
+  {
+    "id": 26,
+    "name": "Westmoreland, US",
+    "flag": "🇺🇸",
+    "coordinates": { "latitude": 40.2104, "longitude": -79.5661 },
+    "dateFrom": "1978",
+    "dateTo": "1988"
+  },
+  {
+    "id": 27,
+    "name": "Kassel, DE",
+    "flag": "🇩🇪",
+    "coordinates": { "latitude": 51.2492, "longitude": 9.4452 },
+    "dateFrom": "1958",
+    "dateTo": null
+  },
+  {
+    "id": 28,
     "name": "Salzgitter, DE",
     "flag": "🇩🇪",
     "coordinates": { "latitude": 52.2135, "longitude": 10.3591 },
     "dateFrom": "1970",
     "dateTo": null
-  }
+  }  
 ]
