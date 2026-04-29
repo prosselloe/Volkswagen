@@ -3,7 +3,7 @@
   {
     "id": 38,
     "name": "1500 / 1600 (Type 3)",
-    "productionYears": "1961-1973",
+    "productionYears": "1961-1964",
     "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Melbourne (Clayton), AU / Auckland, NZ / Nueva Palmira, UY / Shah Alam, MY / Palma Sola, VE",
     "description_ca": "El Volkswagen Tipus 3, comercialitzat com a Volkswagen 1500 i posteriorment 1600, va ser una línia de cotxes familiars que oferia més espai i confort que l'Escarabat. Incloïa variants com el Notchback, el Fastback i el Squareback (Variant).",
     "description_en": "The Volkswagen Type 3, marketed as the Volkswagen 1500 and later 1600, was a line of family cars that offered more space and comfort than the Beetle. It included variants such as the Notchback, the Fastback, and the Squareback (Variant).",
@@ -17,7 +17,26 @@
     "versions": [
       {"modelYear": "1962", "dateFrom": "1961-04-01", "dateTo": "1962-07-31", "chassisFrom": "000001", "chassisTo": "068303"},
       {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "068304", "chassisTo": "221974"},
-      {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "221975", "chassisTo": "483592"},
+      {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "221975", "chassisTo": "483592"}
+    ],
+    "relatedModels": [64, 45],
+    "unitsProduced": 483592
+  },
+    {
+    "id": 64,
+    "name": "1600 Fastback (Type 3)",
+    "productionYears": "1965-1972",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Melbourne (Clayton), AU / Auckland, NZ / Nueva Palmira, UY / Shah Alam, MY / Palma Sola, VE",
+    "description_ca": "El Volkswagen Tipus 3, comercialitzat com a Volkswagen 1500 i posteriorment 1600, va ser una línia de cotxes familiars que oferia més espai i confort que l'Escarabat. Incloïa variants com el Notchback, el Fastback i el Squareback (Variant).",
+    "description_en": "The Volkswagen Type 3, marketed as the Volkswagen 1500 and later 1600, was a line of family cars that offered more space and comfort than the Beetle. It included variants such as the Notchback, the Fastback, and the Squareback (Variant).",
+    "description_es": "El Volkswagen Tipo 3, comercializado como Volkswagen 1500 y posteriormente 1600, fue una línea de coches familiares que ofrecía más espacio y confort que el Escarabajo. Incluía variantes como el Notchback, el Fastback y el Squareback (Variant).",
+    "description_fr": "La Volkswagen Type 3, commercialisée sous le nom de Volkswagen 1500 puis 1600, était une gamme de voitures familiales qui offrait plus d'espace et de confort que la Coccinelle. Elle comprenait des variantes telles que la Notchback, la Fastback et la Squareback (Variant).",
+    "description_pt": "O Volkswagen Tipo 3, comercializado como Volkswagen 1500 e posteriormente 1600, foi uma linha de carros familiares que oferecia mais espaço e conforto que o Fusca. Incluía variantes como o Notchback, o Fastback e o Squareback (Variant).",
+    "imageUrl": "assets/images/tipus3_fastback.jpg",
+    "isCabriolet": false,
+    "engine": "1500cc, 45 CV / 1600cc, 54 CV",
+    "topSpeed": "125-135 km/h",
+    "versions": [
       {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "315000001", "chassisTo": "315220883"},
       {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "316000001", "chassisTo": "316316238"},
       {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "317000001", "chassisTo": "317233853"},
@@ -28,8 +47,36 @@
       {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3122000001", "chassisTo": "3122185000"},
       {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1972-12-31", "chassisFrom": "3132000001", "chassisTo": "3132058437"}
     ],
-    "relatedModels": [39, 45],
-    "unitsProduced": 2544772
+    "relatedModels": [65, 45],
+    "unitsProduced": 1339124
+  },
+    {
+    "id": 65,
+    "name": "1600 Squareback / Variant (Type 3)",
+    "productionYears": "1965-1972",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Melbourne (Clayton), AU / Auckland, NZ / Nueva Palmira, UY / Shah Alam, MY / Palma Sola, VE",
+    "description_ca": "El Volkswagen Tipus 3, comercialitzat com a Volkswagen 1500 i posteriorment 1600, va ser una línia de cotxes familiars que oferia més espai i confort que l'Escarabat. Incloïa variants com el Notchback, el Fastback i el Squareback (Variant).",
+    "description_en": "The Volkswagen Type 3, marketed as the Volkswagen 1500 and later 1600, was a line of family cars that offered more space and comfort than the Beetle. It included variants such as the Notchback, the Fastback, and the Squareback (Variant).",
+    "description_es": "El Volkswagen Tipo 3, comercializado como Volkswagen 1500 y posteriormente 1600, fue una línea de coches familiares que ofrecía más espacio y confort que el Escarabajo. Incluía variantes como el Notchback, el Fastback y el Squareback (Variant).",
+    "description_fr": "La Volkswagen Type 3, commercialisée sous le nom de Volkswagen 1500 puis 1600, était une gamme de voitures familiales qui offrait plus d'espace et de confort que la Coccinelle. Elle comprenait des variantes telles que la Notchback, la Fastback et la Squareback (Variant).",
+    "description_pt": "O Volkswagen Tipo 3, comercializado como Volkswagen 1500 e posteriormente 1600, foi uma linha de carros familiares que oferecia mais espaço e conforto que o Fusca. Incluía variantes como o Notchback, o Fastback e o Squareback (Variant).",
+    "imageUrl": "assets/images/tipus3_squareback.jpg",
+    "isCabriolet": false,
+    "engine": "1500cc, 45 CV / 1600cc, 54 CV",
+    "topSpeed": "125-135 km/h",
+    "versions": [
+      {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "365000001", "chassisTo": "365220883"},
+      {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "366000001", "chassisTo": "366316238"},
+      {"modelYear": "1967", "dateFrom": "1966-08-01", "dateTo": "1967-07-31", "chassisFrom": "367000001", "chassisTo": "367233853"},
+      {"modelYear": "1968", "dateFrom": "1967-08-01", "dateTo": "1968-07-31", "chassisFrom": "368000001", "chassisTo": "368235387"},
+      {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "369000001", "chassisTo": "369264032"},
+      {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "3602000001", "chassisTo": "3602274094"},
+      {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "3612000001", "chassisTo": "3612277190"},
+      {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3622000001", "chassisTo": "3622185000"},
+      {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1972-12-31", "chassisFrom": "3632000001", "chassisTo": "3632058437"}
+    ],
+    "relatedModels": [39, 57],
+    "unitsProduced": 1202935
   },
   {
     "id": 39,
