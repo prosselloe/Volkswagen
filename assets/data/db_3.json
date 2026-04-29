@@ -120,7 +120,7 @@
         {"modelYear": "1973", "dateFrom": "1973-01-01", "dateTo": "1996-12-31","chassisFrom": "N/A", "chassisTo": "N/A"}
     ],
     "relatedModels": [68, 66],
-    "unitsProduced": 0
+    "unitsProduced": 100
   }
 ]
 
