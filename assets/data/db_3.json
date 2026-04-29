@@ -1,46 +1,126 @@
-
 [
-    {
-      "id": 15,
-      "name": "1302 (Type 13)",
-      "productionYears": "1970-1972",
-      "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Ingolstadt, DE",
-      "description_ca": "Conegut com a Super Beetle, el 1302 va introduir una suspensió davantera MacPherson i un nou disseny frontal. Aquest canvi va permetre un maleter més gran i va millorar la conducció. Va ser un intent de modernitzar l'Escarabat per competir amb nous models.",
-      "description_en": "Known as the Super Beetle, the 1302 introduced a MacPherson strut front suspension and a new front design. This change allowed for a larger trunk and improved handling. It was an attempt to modernize the Beetle to compete with new models.",
-      "description_es": "Conocido como Super Beetle, el 1302 introdujo una suspensión delantera MacPherson y un nuevo diseño frontal. Este cambio permitió un maletero más grande y mejoró la conducción. Fue un intento de modernizar el Escarabajo para competir con nuevos modelos.",
-      "description_fr": "Connu sous le nom de Super Beetle, le 1302 a introduit une suspension avant à jambes de force MacPherson et un nouveau design avant. Ce changement a permis d'avoir un coffre plus grand et une meilleure tenue de route. C'était une tentative de moderniser la Coccinelle pour concurrencer les nouveaux models.",
-      "description_pt": "Conhecido como Super Beetle, o 1302 introduziu uma suspensão dianteira MacPherson e um novo design frontal. Essa mudança permitiu um porta-malas maior e melhorou a dirigibilidade. Foi uma tentativa de modernizar o Fusca para competir com novos modelos.",
-      "imageUrl": "assets/images/1302_2.jpg",
-      "isCabriolet": false,
-      "engine": "1300cc, 44 CV",
-      "topSpeed": "125 km/h",
-        "versions": [
-            {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "1112000001", "chassisTo": "1113143119"},
-            {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "1122000001", "chassisTo": "1122961362"}
-        ],
-      "relatedModels": [12, 16],
-      "unitsProduced": 2104482
-    },
-    {
-      "id": 16,
-      "name": "1303 (Type 13)",
-      "productionYears": "1972-1975",
-      "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Ingolstadt, DE",
-      "description_ca": "El 1303 va succeir el 1302, introduint un parabrisa panoràmic corbat que va millorar la visibilitat i va donar-li un aspecte més modern. També va incorporar un nou quadre de comandaments i llums posteriors més grans, conegudes com a 'peus d'elefant'. Va ser l'últim gran redisseny de l'Escarabat.",
-      "description_en": "The 1303 succeeded the 1302, introducing a curved panoramic windshield that improved visibility and gave it a more modern look. It also incorporated a new dashboard and larger taillights, known as 'elephant feet'. It was the last major redesign of the Beetle.",
-      "description_es": "El 1303 sucedió al 1302, introduciendo un parabrisas panorámico curvo que mejoró la visibilidad y le dio un aspecto más moderno. También incorporó un nuevo panel de instrumentos y luces traseras más grandes, conocidas como 'pies de elefante'. Fue el último gran rediseño del Escarabajo.",
-      "description_fr": "La 1303 a succédé à la 1302, en introduisant un pare-brise panoramique incurvé qui améliorait la visibilité et lui donnait un aspect plus moderne. Elle a également incorporé un nouveau tableau de bord et des feux arrière plus grands, connus sous le nom de « pieds d'éléphant ». Ce fut la dernière refonte majeure de la Coccinelle.",
-      "description_pt": "O 1303 sucedeu o 1302, introduzindo um para-brisa panorâmico curvo que melhorou a visibilidade e lhe deu uma aparência mais moderna. Também incorporou um novo painel de instrumentos e lanternas traseiras maiores, conhecidas como 'pés de elefante'. Foi o último grande redesenho do Fusca.",
-      "imageUrl": "assets/images/1303.jpg",
-      "isCabriolet": false,
-      "engine": "1300cc, 44 CV / 1600cc, 50 CV",
-      "topSpeed": "130 km/h",
-        "versions": [
-            {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "1332000001", "chassisTo": "1333021911"},
-            {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "1342000001", "chassisTo": "1342266092"},
-            {"modelYear": "1975", "dateFrom": "1974-08-01", "dateTo": "1975-07-31", "chassisFrom": "1352000001", "chassisTo": "1352115959"}
-        ],
-      "relatedModels": [15, 13],
-      "unitsProduced": 1403962
-    }
+  {
+    "id": 15,
+    "name": "1302 (Type 13)",
+    "productionYears": "1970-1972",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Ingolstadt, DE",
+    "description_ca": "Conegut com a Super Beetle, el 1302 va introduir una suspensió davantera MacPherson i un nou disseny frontal. Aquest canvi va permetre un maleter més gran i va millorar la conducció. Va ser un intent de modernitzar l'Escarabat per competir amb nous models.",
+    "description_en": "Known as the Super Beetle, the 1302 introduced a MacPherson strut front suspension and a new front design. This change allowed for a larger trunk and improved handling. It was an attempt to modernize the Beetle to compete with new models.",
+    "description_es": "Conocido como Super Beetle, el 1302 introdujo una suspensión delantera MacPherson y un nuevo diseño frontal. Este cambio permitió un maletero más grande y mejoró la conducción. Fue un intento de modernizar el Escarabajo para competir con nuevos modelos.",
+    "description_fr": "Connu sous le nom de Super Beetle, le 1302 a introduit une suspension avant à jambes de force MacPherson et un nouveau design avant. Ce changement a permis d'avoir un coffre plus grand et une meilleure tenue de route. C'était une tentative de moderniser la Coccinelle pour concurrencer les nouveaux models.",
+    "description_pt": "Conhecido como Super Beetle, o 1302 introduziu uma suspensão dianteira MacPherson e um novo design frontal. Essa mudança permitiu um porta-malas maior e melhorou a dirigibilidade. Foi uma tentativa de modernizar o Fusca para competir com novos modelos.",
+    "imageUrl": "assets/images/1302_2.jpg",
+    "isCabriolet": false,
+    "engine": "1300cc, 44 CV",
+    "topSpeed": "125 km/h",
+    "versions": [
+        {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "1112000001", "chassisTo": "1113143119"},
+        {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "1122000001", "chassisTo": "1122961362"}
+    ],
+    "relatedModels": [12, 16],
+    "unitsProduced": 2104482
+  },
+  {
+    "id": 16,
+    "name": "1303 (Type 13)",
+    "productionYears": "1972-1975",
+    "manufacturingPlant": "Wolfsburg, DE / Emden, DE / Ingolstadt, DE",
+    "description_ca": "El 1303 va succeir el 1302, introduint un parabrisa panoràmic corbat que va millorar la visibilitat i va donar-li un aspecte més modern. També va incorporar un nou quadre de comandaments i llums posteriors més grans, conegudes com a 'peus d'elefant'. Va ser l'últim gran redisseny de l'Escarabat.",
+    "description_en": "The 1303 succeeded the 1302, introducing a curved panoramic windshield that improved visibility and gave it a more modern look. It also incorporated a new dashboard and larger taillights, known as 'elephant feet'. It was the last major redesign of the Beetle.",
+    "description_es": "El 1303 sucedió al 1302, introduciendo un parabrisas panorámico curvo que mejoró la visibilidad y le dio un aspecto más moderno. También incorporó un nuevo panel de instrumentos y luces traseras más grandes, conocidas como 'pies de elefante'. Fue el último gran rediseño del Escarabajo.",
+    "description_fr": "La 1303 a succédé à la 1302, en introduisant un pare-brise panoramique incurvé qui améliorait la visibilité et lui donnait un aspect plus moderne. Elle a également incorporé un nouveau tableau de bord et des feux arrière plus grands, connus sous le nom de « pieds d'éléphant ». Ce fut la dernière refonte majeure de la Coccinelle.",
+    "description_pt": "O 1303 sucedeu o 1302, introduzindo um para-brisa panorâmico curvo que melhorou a visibilidade e lhe deu uma aparência mais moderna. Também incorporou um novo painel de instrumentos e lanternas traseiras maiores, conhecidas como 'pés de elefante'. Foi o último grande redesenho do Fusca.",
+    "imageUrl": "assets/images/1303.jpg",
+    "isCabriolet": false,
+    "engine": "1300cc, 44 CV / 1600cc, 50 CV",
+    "topSpeed": "130 km/h",
+    "versions": [
+        {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1973-07-31", "chassisFrom": "1332000001", "chassisTo": "1333021911"},
+        {"modelYear": "1974", "dateFrom": "1973-08-01", "dateTo": "1974-07-31", "chassisFrom": "1342000001", "chassisTo": "1342266092"},
+        {"modelYear": "1975", "dateFrom": "1974-08-01", "dateTo": "1975-07-31", "chassisFrom": "1352000001", "chassisTo": "1352115959"}
+    ],
+    "relatedModels": [15, 13],
+    "unitsProduced": 1403962
+  },
+  {
+    "id": 66,
+    "name": "Meyers Manx Buggy (1964-1971) (Type 1)",
+    "productionYears": "1964-1971",
+    "manufacturingPlant": "Fountain Valley (California), US",
+    "description_ca": "El Meyers Manx va ser un buggy de dunes pioner, creat per Bruce Meyers. Basat en el xassís escurçat dun Volkswagen Escarabat, aquest vehicle recreatiu es va convertir en una icona de la cultura automobilística dels anys 60. El seu disseny lleuger i la seva agilitat el van fer popular per a les carreres i la diversió a la platja.",
+    "description_en": "The Meyers Manx was a pioneering dune buggy, created by Bruce Meyers. Based on a shortened Volkswagen Beetle chassis, this recreational vehicle became an icon of 60s car culture. Its lightweight design and agility made it popular for racing and beach fun.",
+    "description_es": "El Meyers Manx fue un buggy de dunas pionero, creado por Bruce Meyers. Basado en el chasis acortado de un Volkswagen Escarabajo, este vehículo recreativo se convirtió en un icono de la cultura automovilística de los años 60. Su diseño ligero y su agilidad lo hicieron popular para las carreras y la diversión en la playa.",
+    "description_fr": "Le Meyers Manx était un buggy des dunes pionnier, créé par Bruce Meyers. Basé sur un châssis raccourci de Volkswagen Coccinelle, ce véhicule récréatif est devenu une icône de la culture automobile des années 60. Sa conception légère et son agilité lont rendu populaire pour la course et le plaisir à la plage.",
+    "description_pt": "O Meyers Manx foi um buggy pioneiro, criado por Bruce Meyers. Baseado em um chassi encurtado de Volkswagen Fusca, este veículo recreativo tornou-se um ícone da cultura automobilística dos anos 60. Seu design leve e agilidade o tornaram popular para corridas e diversão na praia.",
+    "imageUrl": "assets/images/buggy_meyers_manx.jpg",
+    "isCabriolet": true,
+    "engine": "1200cc-1600cc, 40-60 CV",
+    "topSpeed": "120-130 km/h",
+    "versions": [
+        {"modelYear": "1964", "dateFrom": "1964-01-01", "dateTo": "1971-12-31", "chassisFrom": "N/A", "chassisTo": "N/A"}
+    ],
+    "relatedModels": [67, 69],
+    "unitsProduced": 6000
+  },
+  {
+    "id": 67,
+    "name": "Country Buggy / Sakbayan (1967-1968) (Type 197 / 189)",
+    "productionYears": "1967-1968",
+    "manufacturingPlant": "Melbourne (Clayton), AU / Auckland, NZ / Manila, PH",
+    "description_ca": "El Country Buggy, produït per Volkswagen Australasia, va ser un vehicle utilitari basat en el Tipus 1. Dissenyat per a condicions rurals, tenia una carrosseria simple i robusta. No va ser un gran èxit comercial, però avui és una peça de col·leccionista.",
+    "description_en": "The Country Buggy, produced by Volkswagen Australasia, was a utility vehicle based on the Type 1. Designed for rural conditions, it had a simple and robust body. It was not a major commercial success, but today it is a collectors item.",
+    "description_es": "El Country Buggy, producido por Volkswagen Australasia, fue un vehículo utilitario basado en el Tipo 1. Diseñado para condiciones rurales, tenía una carrocería simple y robusta. No fue un gran éxito comercial, pero hoy es una pieza de coleccionista.",
+    "description_fr": "Le Country Buggy, produit par Volkswagen Australasia, était un véhicule utilitaire basé sur la Type 1. Conçu pour les conditions rurales, il avait une carrosserie simple et robuste. Ce ne fut pas un grand succès commercial, mais cest aujourdhui un objet de collection.",
+    "description_pt": "O Country Buggy, produzido pela Volkswagen Australasia, foi um veículo utilitário baseado no Tipo 1. Projetado para condições rurais, possuía uma carroceria simples e robusta. Não foi um grande sucesso comercial, mas hoje é um item de colecionador.",
+    "imageUrl": "assets/images/country_buggy.jpg",
+    "isCabriolet": false,
+    "engine": "1300cc-1500cc, 44-53 CV",
+    "topSpeed": "115 km/h",
+    "versions": [
+        {"modelYear": "1967", "dateFrom": "1967-01-01", "dateTo": "1968-12-31", "chassisFrom": "N/A", "chassisTo": "N/A"}
+    ],
+    "relatedModels": [66, 68],
+    "unitsProduced": 1956
+  },
+  {
+    "id": 68,
+    "name": "Karmann GF Buggy (1971-1974) (Type 1)",
+    "productionYears": "1971-1974",
+    "manufacturingPlant": "Osnabrück, DE",
+    "description_ca": "El Karmann GF (Gurgel-Fun) va ser un buggy produït per Karmann. Similar a altres buggies de lèpoca, utilitzava la plataforma del Volkswagen Escarabat. El seu disseny era més refinat que el daltres buggies, amb una carrosseria de fibra de vidre de més qualitat.",
+    "description_en": "The Karmann GF (Gurgel-Fun) was a buggy produced by Karmann. Similar to other buggies of the era, it used the Volkswagen Beetle platform. Its design was more refined than other buggies, with a higher quality fiberglass body.",
+    "description_es": "El Karmann GF (Gurgel-Fun) fue un buggy producido por Karmann. Similar a otros buggies de la época, utilizaba la plataforma del Volkswagen Escarabajo. Su diseño era más refinado que el de otros buggies, con una carrocería de fibra de vidrio de mayor calidad.",
+    "description_fr": "Le Karmann GF (Gurgel-Fun) était un buggy produit par Karmann. Similaire à dautres buggies de lépoque, il utilisait la plateforme de la Volkswagen Coccinelle. Son design était plus raffiné que celui des autres buggies, avec une carrosserie en fibre de verre de meilleure qualité.",
+    "description_pt": "O Karmann GF (Gurgel-Fun) foi um buggy produzido pela Karmann. Semelhante a outros buggies da época, usava a plataforma do Volkswagen Fusca. Seu design era mais refinado do que outros buggies, com uma carroceria de fibra de vidro de maior qualidade.",
+    "imageUrl": "assets/images/buggy_karmann.jpg",
+    "isCabriolet": true,
+    "engine": "1200cc-1600cc, 40-60 CV",
+    "topSpeed": "125 km/h",
+    "versions": [
+        {"modelYear": "1971", "dateFrom": "1971-01-01", "dateTo": "1974-12-31", "chassisFrom": "N/A", "chassisTo": "N/A"}
+    ],
+    "relatedModels": [69, 67],
+    "unitsProduced": 1200
+  },
+  {
+    "id": 69,
+    "name": "Albar Buggy (1973-1996) (Type 1)",
+    "productionYears": "1973-1996",
+    "manufacturingPlant": "Genton, CH",
+    "description_ca": "L'Albar Buggy, fabricat a Suïssa, va ser un altre popular buggy basat en el xassís de lEscarabat. Es va produir durant un llarg període, amb diverses versions i opcions de personalització. Era conegut per la seva construcció robusta.",
+    "description_en": "The Albar Buggy, made in Switzerland, was another popular buggy based on the Beetle chassis. It was produced for a long period, with several versions and customization options. It was known for its robust construction.",
+    "description_es": "El Albar Buggy, fabricado en Suiza, fue otro popular buggy basado en el chasis del Escarabajo. Se produjo durante un largo período, con varias versiones y opciones de personalización. Era conocido por su construcción robusta.",
+    "description_fr": "L'Albar Buggy, fabriqué en Suisse, était un autre buggy populaire basé sur le châssis de la Coccinelle. Il a été produit sur une longue période, avec plusieurs versions et options de personnalisation. Il était réputé pour sa construction robuste.",
+    "description_pt": "O Albar Buggy, fabricado na Suíça, foi outro buggy popular baseado no chassi do Fusca. Foi produzido por um longo período, com várias versões e opções de personalização. Era conhecido por sua construção robusta.",
+    "imageUrl": "assets/images/buggy_albar.jpg",
+    "isCabriolet": true,
+    "engine": "1200cc-1800cc, 40-90 CV",
+    "topSpeed": "130-150 km/h",
+    "versions": [
+        {"modelYear": "1973", "dateFrom": "1973-01-01", "dateTo": "1996-12-31","chassisFrom": "N/A", "chassisTo": "N/A"}
+    ],
+    "relatedModels": [68, 66],
+    "unitsProduced": 0
+  }
 ]
+
