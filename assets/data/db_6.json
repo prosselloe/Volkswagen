@@ -75,7 +75,7 @@
       {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3622000001", "chassisTo": "3622185000"},
       {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1972-12-31", "chassisFrom": "3632000001", "chassisTo": "3632058437"}
     ],
-    "relatedModels": [39, 57],
+    "relatedModels": [64, 57],
     "unitsProduced": 1202935
   },
   {
