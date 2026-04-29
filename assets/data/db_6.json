@@ -16,7 +16,7 @@
     "topSpeed": "125-135 km/h",
     "versions": [
       {"modelYear": "1962", "dateFrom": "1961-04-01", "dateTo": "1962-07-31", "chassisFrom": "000001", "chassisTo": "068303"},
-      {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "066740", "chassisTo": "221974"},
+      {"modelYear": "1963", "dateFrom": "1962-08-01", "dateTo": "1963-07-31", "chassisFrom": "068304", "chassisTo": "221974"},
       {"modelYear": "1964", "dateFrom": "1963-08-01", "dateTo": "1964-07-31", "chassisFrom": "221975", "chassisTo": "483592"},
       {"modelYear": "1965", "dateFrom": "1964-08-01", "dateTo": "1965-07-31", "chassisFrom": "315000001", "chassisTo": "315220883"},
       {"modelYear": "1966", "dateFrom": "1965-08-01", "dateTo": "1966-07-31", "chassisFrom": "316000001", "chassisTo": "316316238"},
@@ -25,7 +25,7 @@
       {"modelYear": "1969", "dateFrom": "1968-08-01", "dateTo": "1969-07-31", "chassisFrom": "319000001", "chassisTo": "319264032"},
       {"modelYear": "1970", "dateFrom": "1969-08-01", "dateTo": "1970-07-31", "chassisFrom": "3102000001", "chassisTo": "3102274094"},
       {"modelYear": "1971", "dateFrom": "1970-08-01", "dateTo": "1971-07-31", "chassisFrom": "3112000001", "chassisTo": "3112277190"},
-      {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3122000001", "chassisTo": "3122184866"},
+      {"modelYear": "1972", "dateFrom": "1971-08-01", "dateTo": "1972-07-31", "chassisFrom": "3122000001", "chassisTo": "3122185000"},
       {"modelYear": "1973", "dateFrom": "1972-08-01", "dateTo": "1972-12-31", "chassisFrom": "3132000001", "chassisTo": "3132058437"}
     ],
     "relatedModels": [39, 45],
