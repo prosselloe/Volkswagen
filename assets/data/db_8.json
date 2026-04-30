@@ -167,5 +167,49 @@
     ],
     "relatedModels": [57, 58],
     "unitsProduced": 1063963
+  },
+  {
+    "id": 70,
+    "name": "Trakbayan / Mitra / Hormiga (EA489)",
+    "productionYears": "1975-1979",
+    "manufacturingPlant": "Puebla, MX / Hannover, DE / Shah Alam, MY / Cavite, PH / Karachi, PK / Jakarta, ID / Gebze, TR",
+    "description_ca": "El Volkswagen EA489 Basistransporter va ser un vehicle de càrrega simple i econòmic dissenyat per a mercats en desenvolupament. Conegut com a Hormiga a Mèxic, Trakbayan a les Filipines i Mitra a Indonèsia, utilitzava tracció davantera i el clàssic motor bòxer de 1.6L refrigerat per aire.",
+    "description_en": "The Volkswagen EA489 Basistransporter was a simple and economical cargo vehicle designed for developing markets. Known as Hormiga in Mexico, Trakbayan in the Philippines, and Mitra in Indonesia, it featured front-wheel drive and the classic 1.6L air-cooled boxer engine.",
+    "description_es": "El Volkswagen EA489 Basistransporter fue un vehículo de carga simple y económico diseñado para mercados en desarrollo. Conocido como Hormiga en México, Trakbayan en Filipinas y Mitra en Indonesia, utilizaba tracción delantera y el clásico motor bóxer de 1.6L refrigerado por aire.",
+    "description_fr": "Le Volkswagen EA489 Basistransporter était un véhicule de transport simple et économique conçu pour les marchés en développement. Connu sous le nom de Hormiga au Mexique, Trakbayan aux Philippines et Mitra en Indonésie, il utilisait une traction avant et le classique moteur boxer 1.6L refroidi par air.",
+    "description_pt": "O Volkswagen EA489 Basistransporter foi um veículo de carga simples e económico concebido para mercados em desenvolvimento. Conhecido como Hormiga no México, Trakbayan nas Filipinas e Mitra na Indonésia, utilizava tração dianteira e o clássico motor boxer de 1.6L refrigerado por ar.",
+    "imageUrl": "assets/images/hormiga.jpg",
+    "isCabriolet": false,
+    "engine": "1600cc",
+    "topSpeed": "85 km/h",
+    "versions": [
+      {"modelYear": "1976", "dateFrom": "1975-08-01", "dateTo": "1976-07-31", "notes": "Inici de producció"},
+      {"modelYear": "1977", "dateFrom": "1976-08-01", "dateTo": "1977-07-31"},
+      {"modelYear": "1978", "dateFrom": "1977-08-01", "dateTo": "1978-07-31"},
+      {"modelYear": "1979", "dateFrom": "1978-08-01", "dateTo": "1979-07-31"}
+    ],
+    "relatedModels": [38, 45],
+    "unitsProduced": 6000
+  },
+  {
+    "id": 71,
+    "name": "Teijo (EA489)",
+    "productionYears": "1975-1976",
+    "manufacturingPlant": "Helsinki, FI",
+    "description_ca": "El Teijo va ser una variant del Volkswagen EA489 Basistransporter fabricada a Finlàndia per WIHURI. Dissenyat com un vehicle de càrrega econòmic, se'n van produir aproximadament 200 unitats. Utilitzava components mecànics de Volkswagen, incloent el motor refrigerat per aire.",
+    "description_en": "The Teijo was a variant of the Volkswagen EA489 Basistransporter manufactured in Finland by WIHURI. Designed as an economical cargo vehicle, approximately 200 units were produced. It used Volkswagen mechanical components, including the air-cooled engine.",
+    "description_es": "El Teijo fue una variante del Volkswagen EA489 Basistransporter fabricada en Finlandia por WIHURI. Diseñado como un vehículo de carga económico, se produjeron aproximadamente 200 unidades. Utilizaba componentes mecánicos de Volkswagen, incluyendo el motor refrigerado por aire.",
+    "description_fr": "Le Teijo était une variante du Volkswagen EA489 Basistransporter fabriqué en Finlande par WIHURI. Conçu comme un véhicule de transport économique, environ 200 unités ont été produites. Il utilisait des composants mécaniques Volkswagen, notamment le moteur refroidi par air.",
+    "description_pt": "O Teijo foi uma variante do Volkswagen EA489 Basistransporter fabricada na Finlândia pela WIHURI. Projetado como um veículo de carga económico, foram produzidas aproximadamente 200 unidades. Utilizava componentes mecânicos da Volkswagen, incluindo o motor refrigerado por ar.",
+    "imageUrl": "assets/images/teijo.jpg",
+    "isCabriolet": false,
+    "engine": "1600cc",
+    "topSpeed": "80 km/h",
+    "versions": [
+      {"modelYear": "1975", "dateFrom": "1975-01-01", "dateTo": "1975-12-31", "notes": "Inici de producció"},
+      {"modelYear": "1976", "dateFrom": "1976-01-01", "dateTo": "1976-12-31"}
+    ],
+    "relatedModels": [70, 38],
+    "unitsProduced": 200
   }
 ]
