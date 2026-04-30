@@ -1,4 +1,3 @@
-
 [
   {
     "id": 57,
@@ -79,7 +78,7 @@
     "description_en": "The Volkswagen 1600 TL was the Fastback version of the Type 3 produced in Brazil, known for its sloping roofline and a sportier design than the conventional sedan. It was manufactured between August 1970 and August 1975.",
     "description_es": "El Volkswagen 1600 TL fue la versión Fastback del Type 3 producido en Brasil, conocido por su línea de techo inclinada y un diseño más deportivo que el sedán convencional. Se fabricó entre agosto de 1970 y agosto de 1975.",
     "description_fr": "La Volkswagen 1600 TL était la version Fastback de la Type 3 produite au Brésil, connue pour sa ligne de toit inclinée et un design plus sportif que la berline conventionnelle. Elle a été fabriquée entre août 1970 et août 1975.",
-    "description_pt": "O Volkswagen 1600 TL foi a versão Fastback do Type 3 produzido no Brasil, conhecido por sua linha de teto inclinada e um design mais desportivo do que o sedã convencional. Foi fabricado entre agosto de 1970 e agosto de 1975.",
+    "description_pt": "O Volkswagen 1600 TL foi a versão Fastback do Type 3 produzido no Brasil, conhecido por sua linha de teto inclinada e um design mais desportivo do que o sedã convencional. Foi fabricado entre agosto de 1970 e novembre de 1975.",
     "imageUrl": "assets/images/tl_1600.jpg",
     "isCabriolet": false,
     "engine": "1600cc",
@@ -128,7 +127,7 @@
     "description_en": "The Volkswagen SP2 was a sports car designed and built in Brazil. It was produced between June 1972 and December 1975, with a total of 10,205 units (SP1 and SP2 combined). The SP2, with its 1.7L engine, was the most popular version, with approximately 10,043 units produced. The SP1, with a 1.6L engine, had a very limited production of only 162 units and was discontinued due to low demand.",
     "description_es": "El Volkswagen SP2 fue un deportivo diseñado y construido en Brasil. Se produjo entre junio de 1972 y diciembre de 1975, con un total de 10.205 unidades (SP1 y SP2 combinados). El SP2, con su motor de 1.7L, fue la versión más popular, con aproximadamente 10.043 unidades producidas. El SP1, con un motor de 1.6L, tuvo una producción muy limitada de solo 162 unidades y se dejó de fabricar por la baja demanda.",
     "description_fr": "La Volkswagen SP2 était une voiture de sport conçue et construite au Brésil. Elle a été produite entre juin 1972 et décembre 1975, avec un total de 10 205 unités (SP1 et SP2 combinées). La SP2, avec son moteur de 1,7 L, était la version la plus populaire, avec environ 10 043 unités produites. La SP1, avec un moteur de 1,6 L, a eu une production très limitée de seulement 162 unités et a été abandonnée en raison d'une faible demande.",
-    "description_pt": "O Volkswagen SP2 foi um carro desportivo concebido e construído no Brasil. Foi produzido entre junho de 1972 e dezembro de 1975, com um total de 10.205 unidades (SP1 e SP2 combinados). O SP2, com o seu motor de 1.7L, foi a versão mais popular, com aproximadamente 10.043 unidades produzidas. O SP1, com um motor de 1.6L, teve uma produção muito limitada de apenas 162 unidades e foi descontinuado devido à baixa procura.",
+    "description_pt": "O Volkswagen SP2 foi um carro desportivo concebido e construído no Brasil. Foi produzido entre junho de 1972 e dezembro de 1975, com um total de 10.205 unidades (SP1 e SP2 combinados). O SP2, com o seu motor de 1.7L, foi a versão més popular, com aproximadamente 10.043 unidades produzidas. O SP1, com um motor de 1.6L, teve uma produção muito limitada de apenas 162 unidades e foi descontinuado devido à baixa procura.",
     "imageUrl": "assets/images/sp2.jpg",
     "isCabriolet": false,
     "engine": "1.6L-1.7L",
@@ -188,7 +187,7 @@
       {"modelYear": "1978", "dateFrom": "1977-08-01", "dateTo": "1978-07-31"},
       {"modelYear": "1979", "dateFrom": "1978-08-01", "dateTo": "1979-07-31"}
     ],
-    "relatedModels": [38, 45],
+    "relatedModels": [71, 35],
     "unitsProduced": 6000
   },
   {
@@ -209,7 +208,7 @@
       {"modelYear": "1975", "dateFrom": "1975-01-01", "dateTo": "1975-12-31", "notes": "Inici de producció"},
       {"modelYear": "1976", "dateFrom": "1976-01-01", "dateTo": "1976-12-31"}
     ],
-    "relatedModels": [70, 38],
+    "relatedModels": [70, 35],
     "unitsProduced": 200
   }
 ]
