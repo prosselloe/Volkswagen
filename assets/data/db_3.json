@@ -64,8 +64,8 @@
   },
   {
     "id": 67,
-    "name": "Country Buggy / Sakbayan (1967-1968) (Type 197 / 189)",
-    "productionYears": "1967-1968",
+    "name": "Country Buggy / Sakbayan (1967-1968) / (1968-1980) (Type 197 / 189)",
+    "productionYears": "1967-1980",
     "manufacturingPlant": "Melbourne (Clayton), AU / Auckland, NZ / Manila, PH",
     "description_ca": "El Country Buggy, produït per Volkswagen Australasia, va ser un vehicle utilitari basat en el Tipus 1. Dissenyat per a condicions rurals, tenia una carrosseria simple i robusta. No va ser un gran èxit comercial, però avui és una peça de col·leccionista.",
     "description_en": "The Country Buggy, produced by Volkswagen Australasia, was a utility vehicle based on the Type 1. Designed for rural conditions, it had a simple and robust body. It was not a major commercial success, but today it is a collectors item.",
@@ -79,7 +79,7 @@
     "versions": [
         {"modelYear": "1967", "dateFrom": "1967-01-01", "dateTo": "1968-12-31", "chassisFrom": "N/A", "chassisTo": "N/A"}
     ],
-    "relatedModels": [66, 68],
+    "relatedModels": [42, 35],
     "unitsProduced": 1956
   },
   {
@@ -99,7 +99,7 @@
     "versions": [
         {"modelYear": "1971", "dateFrom": "1971-01-01", "dateTo": "1974-12-31", "chassisFrom": "N/A", "chassisTo": "N/A"}
     ],
-    "relatedModels": [69, 67],
+    "relatedModels": [69, 66],
     "unitsProduced": 1200
   },
   {
@@ -123,3 +123,4 @@
     "unitsProduced": 500
   }
 ]
+
