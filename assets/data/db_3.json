@@ -44,7 +44,7 @@
   },
   {
     "id": 66,
-    "name": "Meyers Manx Buggy (1964-1971) (Type 1)",
+    "name": "Meyers Manx Buggy (Type 1)",
     "productionYears": "1964-1971",
     "manufacturingPlant": "Fountain Valley (California), US",
     "description_ca": "El Meyers Manx va ser un buggy de dunes pioner, creat per Bruce Meyers. Basat en el xassís escurçat d'un Volkswagen Escarabat, aquest vehicle recreatiu es va convertir en una icona de la cultura automobilística dels anys 60. El seu disseny lleuger i la seva agilitat el van fer popular per a les carreres i la diversió a la platja.",
@@ -64,7 +64,7 @@
   },
   {
     "id": 67,
-    "name": "Country Buggy / Sakbayan (1967-1968) / (1968-1980) (Type 197)",
+    "name": "Country Buggy / Sakbayan (Type 197)",
     "productionYears": "1967-1980",
     "manufacturingPlant": "Melbourne (Clayton), AU / Auckland, NZ / Manila, PH",
     "description_ca": "El Country Buggy, produït per Volkswagen Australasia, va ser un vehicle utilitari basat en el Tipus 1. Dissenyat per a condicions rurals, tenia una carrosseria simple i robusta. No va ser un gran èxit comercial, però avui és una peça de col·leccionista.",
@@ -79,14 +79,14 @@
     "versions": [
         {"modelYear": "1967", "dateFrom": "1967-07-01", "dateTo": "1968-09-30", "chassisFrom": "118315001", "chassisTo": "118315842"},
         {"modelYear": "1968", "dateFrom": "1968-10-01", "dateTo": "1969-06-30", "chassisFrom": "118315843", "chassisTo": "118316775"},
-        {"modelYear": "1969", "dateFrom": "1969-07-01", "dateTo": "1970-06-30", "chassisFrom": "118316776", "chassisTo": "118316956"}
+        {"modelYear": "1969", "dateFrom": "1969-07-01", "dateTo": "1980-06-30", "chassisFrom": "118316776", "chassisTo": "118316956"}
     ],
     "relatedModels": [42, 35],
     "unitsProduced": 1956
   },
   {
     "id": 68,
-    "name": "Karmann GF Buggy (1971-1974) (Type 1)",
+    "name": "Karmann GF Buggy (Type 1)",
     "productionYears": "1971-1974",
     "manufacturingPlant": "Osnabrück, DE",
     "description_ca": "El Karmann GF (Gurgel-Fun) va ser un buggy produït per Karmann. Similar a altres buggies de l'època, utilitzava la plataforma del Volkswagen Escarabat. El seu disseny era més refinat que el d'altres buggies, amb una carrosseria de fibra de vidre de més qualitat.",
@@ -106,7 +106,7 @@
   },
   {
     "id": 69,
-    "name": "Albar Buggy (1973-1996) (Type 1)",
+    "name": "Albar Buggy (Type 1)",
     "productionYears": "1973-1996",
     "manufacturingPlant": "Genton, CH",
     "description_ca": "L'Albar Buggy, fabricat a Suïssa, va ser un altre popular buggy basat en el xassís de l'Escarabat. Es va produir durant un llarg període, amb diverses versions i opcions de personalització. Era conegut per la seva construcció robusta.",
